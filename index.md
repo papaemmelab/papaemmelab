@@ -1,9 +1,17 @@
 ---
 ---
 
-# papaemmelab's Website
+# The Elli Papaemmanuil Lab
 
-An engaging 1-3 sentence description of your lab.
+Our lab is a collective of clinical, computational, molecular and mathematic research investigators with an interest in studying the role of acquired mutations in cancer development, and how these determine clinical phenotype and response to therapy. Our mission is to execute research that informs and moves clinical practices in oncology forward. We have strong expertise in genome profiling analysis, a proven track record on the development of high-throughput laboratory and analytical pipelines (bioinformatics and statistical), and integrating large and complex genomic datasets. We have formed a strong network of research and clinical collaborations to pursue innovative studies in cancer research.
+
+{%
+  include figure.html
+  image="images/lab.jpg"
+  caption="Papaemmanuil Lab photo 2019"
+  link="team"
+  width="1000px"
+%}
 
 {% include section.html %}
 
@@ -11,7 +19,13 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We conduct research at three levels. Firstly we perform systematic genome profiling of large (>1000) and well-annotated patient cohorts to characterize genetic and clinical inter-relationships.
+
+We use advanced statistical modeling to study genotype-phenotype and genotype-outcome relationships as a framework for the development of molecularly guided clinical decision support algorithms to support diagnosis and prognostication of cancer patients. Such population based analysis, enable us to identify genotype combinations that are critical to disease biology, or that associate strongly with clinical presentation, response to treatment and overall survival.
+
+These studies empower our second level research. We use population data to characterize disease associated, outcome defining and treatment informing genotypes. We select representative samples for detailed molecular phenotyping using integrative genomic and cell based assays to single cell characterizations.
+
+Last, we perform detailed clonal heterogeneity tracking studies. We profile temporally as well as spatially separated samples (diagnosis, pre-treatment, post treatment) to quantify changing clonal phylogenies, during disease progression, or in response to therapeutic intervention.
 
 {%
   include button.html
@@ -26,15 +40,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/lab1.jpg"
   link="research"
   title="Our Research"
   text=text
+  width="500px"
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are driving the Pediatrics Precision Medicine Initiative for the Department of Pediatrics, and support clinical translational research for the Center for Heme Malignancies at MSK.
+
+We benefit from a fully resourced computational and research environment. We have access to state of the art computing and laboratory facilities to support truly ambitious and innovative research.
+
 
 {%
   include button.html
@@ -49,7 +67,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/kids1.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +77,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We like to perform ambitious research, but operate in a fun, collaborative, and team-oriented environment, and we are strongly committed to mentoring young scientists through internal and international internship schemes.
+
+**Join us:** We are looking for inspiring, motivated individuals to join our team, challenge our current understanding of cancer biology and help make new discoveries that will inform cancer care and improve patient outcomes.
+
 
 {%
   include button.html
@@ -74,7 +95,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/work1.jpg"
   link="team"
   title="Our Team"
   text=text

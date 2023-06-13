@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: papaemmelab
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: Elli Papaemmanuil Lab
+subtitle:
+description: Studying the role of acquired mutations in cancer development, and how these determine clinical phenotype and response to therapy.
+header: images/molecular.jpg
+footer: images/molecular.jpg
 
 # site social media and other links
 links:
