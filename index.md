@@ -8,24 +8,20 @@ Our lab is a collective of clinical, computational, molecular and mathematic res
 {%
   include figure.html
   image="images/lab.jpg"
-  caption="Papaemmanuil Lab photo 2019"
+  caption="Papaemmanuil Lab at Memorial Sloan Kettering Cancer Center. 2019."
   link="team"
-  width="1000px"
+  width="1500px"
 %}
 
 {% include section.html %}
 
-## Highlights
-
 {% capture text %}
 
-We conduct research at three levels. Firstly we perform systematic genome profiling of large (>1000) and well-annotated patient cohorts to characterize genetic and clinical inter-relationships.
+We conduct research at three levels. Firstly we perform **systematic genome profiling** of large (>1000) and well-annotated patient cohorts to characterize genetic and clinical inter-relationships. We use advanced statistical modeling to study genotype-phenotype and genotype-outcome relationships as a framework for the development of molecularly guided clinical decision support algorithms to support diagnosis and prognostication of cancer patients. Such population based analysis, enable us to identify genotype combinations that are critical to disease biology, or that associate strongly with clinical presentation, response to treatment and overall survival.
 
-We use advanced statistical modeling to study genotype-phenotype and genotype-outcome relationships as a framework for the development of molecularly guided clinical decision support algorithms to support diagnosis and prognostication of cancer patients. Such population based analysis, enable us to identify genotype combinations that are critical to disease biology, or that associate strongly with clinical presentation, response to treatment and overall survival.
+These studies empower our second level research. We use population data to **characterize disease associated, outcome defining and treatment informing genotypes**. We select representative samples for detailed molecular phenotyping using integrative genomic and cell based assays to single cell characterizations.
 
-These studies empower our second level research. We use population data to characterize disease associated, outcome defining and treatment informing genotypes. We select representative samples for detailed molecular phenotyping using integrative genomic and cell based assays to single cell characterizations.
-
-Last, we perform detailed clonal heterogeneity tracking studies. We profile temporally as well as spatially separated samples (diagnosis, pre-treatment, post treatment) to quantify changing clonal phylogenies, during disease progression, or in response to therapeutic intervention.
+Last, we perform detailed **clonal heterogeneity tracking studies**. We profile temporally as well as spatially separated samples (diagnosis, pre-treatment, post treatment) to quantify changing clonal phylogenies, during disease progression, or in response to therapeutic intervention.
 
 {%
   include button.html
@@ -45,13 +41,14 @@ Last, we perform detailed clonal heterogeneity tracking studies. We profile temp
   title="Our Research"
   text=text
   width="500px"
+  className="feature-image large"
 %}
 
 {% capture text %}
 
 We are driving the Pediatrics Precision Medicine Initiative for the Department of Pediatrics, and support clinical translational research for the Center for Heme Malignancies at MSK.
 
-We benefit from a fully resourced computational and research environment. We have access to state of the art computing and laboratory facilities to support truly ambitious and innovative research.
+We benefit from a fully resourced computational and research environment. We have access to state-of-the-art computing and laboratory facilities to support truly ambitious and innovative research.
 
 
 {%

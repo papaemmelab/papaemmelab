@@ -1,5 +1,6 @@
 ---
 ---
+// https://styleguide.design.dev.aws.mskcc.org/assets/fonts/gotham-400-299e9ca606232b303d774724dc648995.woff2
 
 :root {
   // font families
@@ -9,7 +10,7 @@
   --code: "Roboto Mono", monospace;
 
   // font sizes
-  --medium: 10px;
+  --medium: 20px;
   --large: 30px;
   --xl: 40px;
   --xxl: 50px;
@@ -22,6 +23,7 @@
 
   // text line spacing
   --spacing: 1.6;
+  --font-weight: 350;
 
   // effects
   --rounded: 3px;
