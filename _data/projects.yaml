@@ -1,22 +1,23 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Isabl Platform
+  subtitle: A digital biobank for processing multimodal patient data
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-020-03879-7/MediaObjects/12859_2020_3879_Fig1_HTML.png?as=webp
+  link: http://docs.isabl.io
+  description: Isabl is a plug-and-play data science framework designed to support the processing of multimodal patient-centric data. Isabl supports continuous data utilization and automated meta analyses at scale, and serves as a catalyst for research innovation, new discoveries, and clinical translation.
   tags:
-    - resource
+    - Cancer Genomics, NGS, multi-modal data
 
-- title: Cool Package
-  subtitle: a subtitle
+
+- title: IPSS-M Risk Calculator
+  subtitle: MDS Prognosis Calculator
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/ipssm-app.png
+  link: https://mds-risk-model.com/
+  description: The IPSS-M Risk Calculator is the newest MDS prognosis calculator that combines genomic profiling with hematologic and cytogenetic parameters, improving the risk stratification of patients with MDS. This is a valuable tool for clinical decision-making, offering the prospect of tailoring diagnosis and therapeutic interventions to each patient's molecular profile.
+  repo: papaemmelab/ipssm
   tags:
-    - resource
+    - MDS, Hemaetology, Prognosis
+
 
 - title: Cool Tutorial
   subtitle: a subtitle

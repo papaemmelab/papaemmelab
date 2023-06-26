@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# Research
+## Research
 
 We are driving the Pediatrics Precision Medicine Initiative for the Department of Pediatrics, and support clinical translational research for the Center for Heme Malignancies at MSK.
 
@@ -13,7 +13,7 @@ We benefit from a fully resourced computational and research environment. We hav
 
 {% include section.html %}
 
-## Highlighted
+### Highlighted
 
 {% include citation.html lookup="Clonal evolution during metastatic spread in high-risk neuroblastoma" style="rich" %}
 
@@ -29,7 +29,7 @@ We benefit from a fully resourced computational and research environment. We hav
 
 {% include section.html %}
 
-## All
+### All
 
 {% include search-box.html %}
 

@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+## Contact
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -14,7 +14,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
+  text="papaemme@mskcc.org"
   link="jane@smith.com"
 %}
 {%
@@ -26,6 +26,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="address"
+  text="Memorial Sloan Kettering Cancer Center"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}
@@ -36,8 +37,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="https://lirp.cdn-website.com/1b7412be/dms3rep/multi/opt/MSKCC_2-dfeddf4b-640w.jpg"
+  caption="Our group is located at Joy/Maclowe building 321 E 61sth, at Memorial Sloan Kettering Cancer Center in New York City."
 %}
 
 {% endcapture %}
@@ -46,8 +47,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/lab1.jpg"
+  caption="We are strongly committed to mentoring young scientists through internal and international internship schemes"
 %}
 
 {% endcapture %}
