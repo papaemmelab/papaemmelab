@@ -2,7 +2,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: var(--heading);
+  font-family: var(--msk-bold);
   line-height: calc(var(--spacing) - 0.2);
 }
 

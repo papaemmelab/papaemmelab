@@ -14,11 +14,15 @@
   --spacing: 1.6;
   --font-weight: 350;
   --rounded: 3px;
-  --shadow: 0 0 10px 0 var(--overlay);
+  --shadow: 0 0 1px 0 var(--overlay);
   --msk-navy: #002569;
   --msk-blue: #0073E0;
   --msk-blue-medium: #70BCFF;
   --msk-teal: #78E2DA;
+  --msk-light-blue: #C2E3FF;
+  --msk-light-gray: #FBF9F7;
+  --msk-font: "MSK Sans Web";
+  --msk-bold: "MSK Sans Web Bold";
 }
 
 [data-dark=false] {
