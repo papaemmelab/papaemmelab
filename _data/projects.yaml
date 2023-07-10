@@ -3,7 +3,8 @@
   group: featured
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-020-03879-7/MediaObjects/12859_2020_3879_Fig1_HTML.png?as=webp
   link: http://docs.isabl.io
-  description: Isabl is a plug-and-play data science framework designed to support the processing of multimodal patient-centric data. Isabl supports continuous data utilization and automated meta analyses at scale, and serves as a catalyst for research innovation, new discoveries, and clinical translation.
+  # description: Isabl is a plug-and-play data science framework designed to support the processing of multimodal patient-centric data. Isabl supports continuous data utilization and automated meta analyses at scale, and serves as a catalyst for research innovation, new discoveries, and clinical translation.
+  description: Plug-and-play data science framework designed to support the processing of multimodal patient-centric data at scale.
   tags:
     - Cancer Genomics, NGS, multi-modal data
 
@@ -13,7 +14,8 @@
   group: featured
   image: images/ipssm-app.png
   link: https://mds-risk-model.com/
-  description: The IPSS-M Risk Calculator is the newest MDS prognosis calculator that combines genomic profiling with hematologic and cytogenetic parameters, improving the risk stratification of patients with MDS. This is a valuable tool for clinical decision-making, offering the prospect of tailoring diagnosis and therapeutic interventions to each patient's molecular profile.
+  # description: The IPSS-M Risk Calculator is the newest MDS prognosis calculator that combines genomic profiling with hematologic and cytogenetic parameters, improving the risk stratification of patients with MDS. This is a valuable tool for clinical decision-making, offering the prospect of tailoring diagnosis and therapeutic interventions to each patient's molecular profile.
+  description: Newest MDS prognosis calculator that combines genomic profiling with hematologic and cytogenetic parameters, improving the risk stratification of patients with MDS.
   repo: papaemmelab/ipssm
   tags:
     - MDS, Hemaetology, Prognosis

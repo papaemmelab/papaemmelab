@@ -32,3 +32,18 @@
 .tag[data-active] {
   background: var(--light-gray);
 }
+
+// Custom
+
+.tag {
+  font-size: 12px;
+  background: #F0F7FF;
+  border: 1px solid var(--primary);
+  &:hover {
+    background: var(--msk-light-blue);
+  }
+}
+
+.tags a {
+  color: var(--primary);
+}

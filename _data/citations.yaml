@@ -32,12 +32,12 @@
   link: https://doi.org/gscb6q
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-023-01395-x/MediaObjects/41588_2023_1395_Fig5_HTML.png?as=webp
   buttons:
-  - type: source
-    text: Code Availablility
-    link: https://zenodo.org/record/7783022
   - type: website
     text: Data Navigator
     link: https://papaemmelab.github.io/neuroblastoma-clonality-viewer
+  - type: source
+    text: Code
+    link: https://zenodo.org/record/7783022
   - type: data
     text: Data Access
     link: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003111.v1.p1
@@ -283,12 +283,12 @@
   link: https://doi.org/grb2tb
   image: https://evidence.nejm.org/cms/10.1056/EVIDoa2200008/asset/6e698239-222b-49ea-baaa-e64268197dfa/assets/images/large/evidoa2200008_f2.jpg
   buttons:
-  - type: package
-    text: R Package
-    link: https://github.com/papaemmelab/ipssm
   - type: website
     text: Calculator
     link: http://www.mds-risk-model.com
+  - type: package
+    text: R Package
+    link: https://github.com/papaemmelab/ipssm
   tags:
   - MDS
   - Cancer

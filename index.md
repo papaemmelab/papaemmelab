@@ -1,7 +1,7 @@
 ---
 ---
 
-# The Elli Papaemmanuil Lab
+<!-- # The Elli Papaemmanuil Lab -->
 
 Our lab is a collective of clinical, computational, molecular and mathematic research investigators with an interest in studying the role of acquired mutations in cancer development, and how these determine clinical phenotype and response to therapy. Our mission is to execute research that informs and moves clinical practices in oncology forward. We have strong expertise in genome profiling analysis, a proven track record on the development of high-throughput laboratory and analytical pipelines (bioinformatics and statistical), and integrating large and complex genomic datasets. We have formed a strong network of research and clinical collaborations to pursue innovative studies in cancer research.
 
@@ -10,7 +10,7 @@ Our lab is a collective of clinical, computational, molecular and mathematic res
   image="images/lab.jpg"
   caption="Papaemmanuil Lab at Memorial Sloan Kettering Cancer Center. 2019."
   link="team"
-  width="1500px"
+  width="1000px"
 %}
 
 {% include section.html %}
