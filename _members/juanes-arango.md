@@ -2,6 +2,7 @@
 name: Juan E. Arango-Ossa
 image: https://www.mskcc.org/sites/default/files/styles/width_800/public/node/150292/main_image/arango-ossa-juan_190905_06_0.webp
 description: Bionformatics Engineer IV
+status: active
 role: programmer
 links:
   email: arangooj@mskcc.org
