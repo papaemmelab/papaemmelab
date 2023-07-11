@@ -73,4 +73,22 @@
   top: -2px;
 }
 
+.portrait {
+  width: 200px;
+}
+
+.portrait-name {
+  color: var(--secondary);
+  font-weight: var(--bold);
+}
+
+.portrait-role {
+  color: var(--primary);
+  font-size: 14px;
+}
+
+.portrait-image {
+  border-radius: 0px;
+}
+
 /*# sourceMappingURL=portrait.css.map */
