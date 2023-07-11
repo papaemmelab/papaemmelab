@@ -83,3 +83,5 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+<a class="twitter-timeline" href="https://twitter.com/PapaemmanuilLab?ref_src=twsrc%5Etfw">Tweets by PapaemmanuilLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
