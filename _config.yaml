@@ -3,8 +3,8 @@ title: The Elli Papaemmanuil Lab
 subtitle: Department of Computational Oncology, Epidemiology and Biostatistics
 description: Studying the role of acquired mutations in cancer development, and how these determine clinical phenotype and response to therapy.
 # header: images/molecular.jpg
-header: images/molecular4.png
-footer: images/molecular.jpg
+header: images/molecular-ai-header.png
+footer: images/molecular-ai-footer.png
 header-dark: true
 
 # site social media and other links

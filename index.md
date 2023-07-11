@@ -53,8 +53,8 @@ We benefit from a fully resourced computational and research environment. We hav
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="tools"
+  text="Browse our tools"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -65,7 +65,7 @@ We benefit from a fully resourced computational and research environment. We hav
 {%
   include feature.html
   image="images/kids1.jpg"
-  link="projects"
+  link="tools"
   title="Our Projects"
   flip=true
   style="bare"

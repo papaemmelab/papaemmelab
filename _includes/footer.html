@@ -23,7 +23,7 @@
     {% endfor %}
   </div>
 
-  <div>
+  <div class="footer">
     &copy; {{ site.time | date: "%Y" }}
     {{ site.title }}
     &nbsp; | &nbsp; Built with
@@ -32,11 +32,11 @@
     </a>
   </div>
 
-  <input
+  {% comment %} <input
     type="checkbox"
     class="dark-toggle"
     data-tooltip="Dark mode"
     aria-label="toggle dark mode"
     oninput="onDarkToggleChange(event)"
-  >
+  > {% endcomment %}
 </footer>

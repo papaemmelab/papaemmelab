@@ -32,7 +32,7 @@
         {% if member.role or member.description %}
           <span class="portrait-role">
             {% assign type = site.data.types[member.role] %}
-            {% include icon.html icon=type.icon %}
+            {% comment %} {% include icon.html icon=type.icon %} {% endcomment %}
             <span>{{ member.description | default: type.description }}</span>
           </span>
         {% endif %}

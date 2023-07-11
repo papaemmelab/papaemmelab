@@ -7,28 +7,23 @@ nav:
 
 ## Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab is a collective of clinical, computational, molecular and mathematic research investigators. We like to perform ambitious research, but operate in a fun, collaborative, and team-oriented environment, and we are strongly committed to mentoring young scientists through internal and international internship schemes.
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
+
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/lab.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
 {% capture content %}
 
+<!-- {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %} -->
 
 {% endcapture %}
 
