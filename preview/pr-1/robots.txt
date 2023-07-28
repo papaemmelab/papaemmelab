@@ -1,1 +1,1 @@
-Sitemap: /papaemmelab/preview/pr-1/sitemap.xml
+Sitemap: /preview/pr-1/sitemap.xml
