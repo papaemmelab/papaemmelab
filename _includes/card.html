@@ -6,6 +6,7 @@
     {% endif %}
     aria-label="{{ include.title | default: "card link" }}"
     class="card-image"
+    target="_blank"
   >
     <img
       src="{{ include.image | relative_url }}"

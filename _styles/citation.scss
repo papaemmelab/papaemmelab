@@ -17,7 +17,7 @@ $wrap: 800px;
   position: relative;
   width: $thumb-size;
   flex-shrink: 0;
-  // box-shadow: var(--shadow);
+  box-shadow: var(--shadow);
 }
 
 .citation-image img {
@@ -25,7 +25,7 @@ $wrap: 800px;
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;
 }
 
 .citation-text {
@@ -93,4 +93,36 @@ $wrap: 800px;
     width: unset;
     height: $thumb-size;
   }
+}
+
+
+// Custom
+
+.citation-text {
+  background: #f3f3f3;
+}
+
+.citation-title {
+  font-weight: 700;
+  font-size: 22px;
+  text-decoration: none;
+  &:hover {
+    color: var(--secondary);
+  }
+}
+
+.citation-authors {
+  font-size: 16px;
+  color: #666;
+}
+
+.citation-details {
+  color: var(--secondary);
+  font-weight: 700;
+  font-style: italic;
+}
+
+.citation-buttons {
+  font-size: 16px;
+  gap: 20px;
 }

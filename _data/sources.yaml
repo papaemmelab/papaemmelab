@@ -1,23 +1,157 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+# Latest
+- id: doi:10.1038/s41588-023-01395-x
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-023-01395-x/MediaObjects/41588_2023_1395_Fig5_HTML.png?as=webp
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
+      text: Code Availablility
+      link: https://zenodo.org/record/7783022
     - type: website
-      link: http://manubot.org/
+      text: Data Navigator
+      link: https://papaemmelab.github.io/neuroblastoma-clonality-viewer
+    - type: data
+      text: Data Access
+      link: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003111.v1.p1
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - Neuroblastoma
+    - Evolution
+    - Metastasis
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1038/s41467-022-30233-7
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-30233-7/MediaObjects/41467_2022_30233_Fig1_HTML.png?as=webp
+  tags:
+    - Pediatrics
+    - Whole Genome Sequencing
+    - Isabl
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1186/s12859-020-03879-7
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-020-03879-7/MediaObjects/12859_2020_3879_Fig1_HTML.png?as=webp
+  buttons:
+    - type: docs
+      text: Documentation
+      link: https://docs.isabl.io
+  tags:
+    - Platform
+    - Bioinformatics
+    - Biobank
+
+- id: doi:10.1038/s41591-020-1008-z
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-1008-z/MediaObjects/41591_2020_1008_Fig1_HTML.png?as=webp
+
+- id: doi:10.1056/EVIDoa2200008
+  image: https://evidence.nejm.org/cms/10.1056/EVIDoa2200008/asset/6e698239-222b-49ea-baaa-e64268197dfa/assets/images/large/evidoa2200008_f2.jpg
+  buttons:
+    - type: package
+      text: R Package
+      link: https://github.com/papaemmelab/ipssm
+    - type: website
+      text: Calculator
+      link: http://www.mds-risk-model.com
+  tags:
+    - MDS
+    - Cancer
+    - Hematology
+  repo: papaemmelab/ipssm
+
+- id: doi:10.1038/s41467-022-32103-8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-32103-8/MediaObjects/41467_2022_32103_Fig3_HTML.png?as=webp
+
+# Highlights
+
+- id: doi:10.1038/ng.2874
+
+- id: doi:10.1038/ncomms6901
+
+- id: doi:10.1093/bioinformatics/btt750
+
+- id: doi:10.1182/blood-2013-08-518886
+
+- id: doi:10.1038/ng.430
+
+- id: doi:10.1182/bloodadvances.2021006325
+
+# Rest of sources
+
+- id: doi:10.1038/s41375-022-01537-w
+
+- id: doi:10.1038/s41375-021-01448-2
+
+- id: doi:10.1186/s12859-020-03879-7
+
+- id: doi:10.3324/haematol.2021.279177
+
+- id: doi:10.1056/NEJMoa1516192
+  image: https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2016/nejm_2016.374.issue-23/nejmoa1516192/20180329/images/img_medium/nejmoa1516192_f2.jpeg
+
+- id: doi:10.1056/NEJMoa1412098
+
+- id: doi:10.3324/haematol.2014.113381
+
+- id: doi:10.1182/blood-2014-06-579466
+
+- id: doi:10.1038/leu.2014.161
+
+- id: doi:10.1038/leu.2014.331
+
+- id: doi:10.1182/blood-2014-09-603043
+
+- id: doi:10.7554/eLife.02935
+
+- id: doi:10.1182/blood-2014-03-560227
+
+- id: doi:10.1126/science.1251343
+
+- id: doi:10.1016/j.ccr.2014.03.036
+
+- id: doi:10.1038/ng.2955
+
+- id: doi:10.1038/ncomms4644
+
+- id: doi:10.1038/nature13115
+
+- id: doi:10.1038/ng.2921
+
+- id: doi:10.1038/ng.2874
+
+- id: doi:10.1038/ng.2846
+
+- id: doi:10.1056/NEJMoa1312542
+
+- id: doi:10.1101/gr.159913.113
+
+- id: doi:10.1038/nature12477
+
+- id: doi:10.1172/JCI67201
+
+- id: doi:10.1038/leu.2012.298
+
+- id: doi:10.3324/haematol.2012.077446
+
+- id: doi:10.1038/ng.2495
+
+- id: doi:10.1016/j.cell.2012.04.024
+
+- id: doi:10.1016/j.cell.2012.04.023
+
+- id: doi:10.1038/nature11017
+
+- id: doi:10.1182/blood-2011-09-377275
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/118/24/10.1182_blood-2011-09-377275/4/m_zh89991182640004.jpeg?Expires=1689068530&Signature=3qnbse8LZH05fZbr-8ntaqkOpbNVs4XTqjyirIgmRTxKOfUopDcQS1wKkqB7ryShLWwJZK224w9IpGRzorSY3MKSv6VHSDJXlcynkm1nGFtVTRyLE5R8qyvMoeJh~Gce~7cngnNuVDSyb9UfEuCpM6Q2DNsUwOUu~eQEKnaYohrVr718jZCLxRrURQdhQe3tlEXJh~0pROq66tsi3tzAmMiTshCOnrU45KBCjYIgyKPFE60vUCMdxc4ilIMhblfmZdbL7oQ9N9q2TiP2mM0SoNL7R5ENZVBsK5cJBGjUQN56glA7xWCxm9J~w~nBmL9kSkuJrz6cPnEHYYwEBvykaQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1056/NEJMoa1103283
+
+- id: doi:10.1182/blood-2010-08-301598
+
+- id: doi:10.1182/blood-2009-09-244483
+
+- id: doi:10.1038/ng.585
+
+- id: doi:10.1182/blood-2009-09-241513
+
+- id: doi:10.1038/ejhg.2008.129
+
+- id: doi:10.1111/j.1365-2141.2008.07188.x
+
+# Jaeger E, Webb E, Howarth K, Carvajal-Carmona L, Rowan A, Broderick P, Walther A, Spain S, Pittman A, Kemp Z, Sullivan K, Heinimann K, Lubbe S, Domingo E, Barclay E, Martin L, Gorman M, Chandler I, Vijayakrishnan J, Wood W, Papaemmanuil E, Penegar S, Qureshi M; CORGI Consortium, Farrington S, Tenesa A, Cazier JB, Kerr D, Gray R, Peto J, Dunlop M, Campbell H, Thomas H, Houlston R, Tomlinson I. Common genetic variants at the CRAC1 (HMPS) locus on chromosome 15q13.3 influence colorectal cancer risk. Nat Genet. 2008 Jan;40(1):26-8
+# Penegar S, Wood W, Lubbe S, Chandler I, Broderick P, Papaemmanuil E, Sellick G, Gray R, Peto J, Houlston R. National study of colorectal cancer genetics. Br J Cancer. 2007 Nov 5;97(9):1305-9
+# Broderick P, Carvajal-Carmona L, Pittman AM, Webb E, Howarth K, Rowan A, Lubbe S, Spain S, Sullivan K, Fielding S, Jaeger E, Vijayakrishnan J, Kemp Z, Gorman M, Chandler I, Papaemmanuil E, Penegar S, Wood W, Sellick G, Qureshi M, Teixeira A, Domingo E, Barclay E, Martin L, Sieber O; CORGI Consortium, Kerr D, Gray R, Peto J, Cazier JB, Tomlinson I, Houlston RS. A genome-wide association study shows that common alleles of SMAD7 influence colorectal cancer risk. Nat Genet. 2007 Nov;39(11):1315-7
+# Kemp Z, Carvajal-Carmona L, Spain S, Barclay E, Gorman M, Martin L, Jaeger E, Brooks N, Bishop DT, Thomas H, Tomlinson I, Papaemmanuil E, Webb E, Sellick GS, Wood W, Evans G, Lucassen A, Maher ER, Houlston RS; ColoRectal tumour Gene Identification (CoRGI) Study Consortium. Evidence for a colorectal cancer susceptibility locus on chromosome 3q21-q24 from a high-density SNP genome-wide linkage scan. Hum Mol Genet. 2006 Oct 1;15(19):2903-10

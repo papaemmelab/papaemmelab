@@ -75,3 +75,22 @@
   left: -2px;
   top: -2px;
 }
+
+// Custom
+.portrait {
+  width: 210px;
+}
+
+.portrait-name {
+  color: var(--secondary);
+  font-weight: var(--bold);
+}
+
+.portrait-role {
+  color: var(--primary);
+  font-size: 16px;
+}
+
+.portrait-image {
+  border-radius: 0px;
+}

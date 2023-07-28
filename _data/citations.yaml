@@ -1,133 +1,2039 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1038/s41588-023-01395-x
+  title: Clonal evolution during metastatic spread in high-risk neuroblastoma
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  - Gunes Gundem
+  - Max F. Levine
+  - Stephen S. Roberts
+  - Irene Y. Cheung
+  - "Juan S. Medina-Mart\xEDnez"
+  - Yi Feng
+  - Juan E. Arango-Ossa
+  - Loic Chadoutaud
+  - Mathieu Rita
+  - Georgios Asimomitis
+  - Joe Zhou
+  - Daoqi You
+  - Nancy Bouvier
+  - Barbara Spitzer
+  - David B. Solit
+  - Filemon Dela Cruz
+  - Michael P. LaQuaglia
+  - Brian H. Kushner
+  - Shakeel Modak
+  - Neerav Shukla
+  - Christine A. Iacobuzio-Donahue
+  - Andrew L. Kung
+  - Nai-Kong V. Cheung
+  - Elli Papaemmanuil
+  publisher: Nature Genetics
+  date: '2023-05-11'
+  link: https://doi.org/gscb6q
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-023-01395-x/MediaObjects/41588_2023_1395_Fig5_HTML.png?as=webp
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
   - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
+    text: Code Availablility
+    link: https://zenodo.org/record/7783022
   - type: website
-    link: http://manubot.org/
+    text: Data Navigator
+    link: https://papaemmelab.github.io/neuroblastoma-clonality-viewer
+  - type: data
+    text: Data Access
+    link: https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs003111.v1.p1
   tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Neuroblastoma
+  - Evolution
+  - Metastasis
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1038/s41467-022-30233-7
+  title: Feasibility of whole genome and transcriptome profiling in pediatric and
+    young adult cancers
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
+  - N. Shukla
+  - M. F. Levine
+  - G. Gundem
+  - D. Domenico
+  - B. Spitzer
+  - N. Bouvier
+  - J. E. Arango-Ossa
+  - D. Glodzik
+  - "J. S. Medina-Mart\xEDnez"
+  - U. Bhanot
+  - "J. Guti\xE9rrez-Abril"
+  - Y. Zhou
+  - E. Fiala
+  - E. Stockfisch
+  - S. Li
+  - M. I. Rodriguez-Sanchez
+  - "T. O\u2019Donohue"
+  - C. Cobbs
+  - M. H. A. Roehrl
+  - J. Benhamida
+  - F. Iglesias Cardenas
+  - M. Ortiz
+  - M. Kinnaman
+  - S. Roberts
+  - M. Ladanyi
+  - S. Modak
+  - S. Farouk-Sait
+  - E. Slotkin
+  - M. A. Karajannis
+  - F. Dela Cruz
+  - J. Glade Bender
+  - A. Zehir
+  - A. Viale
+  - M. F. Walsh
+  - A. L. Kung
+  - E. Papaemmanuil
+  publisher: Nature Communications
+  date: '2022-05-18'
+  link: https://doi.org/gscb6r
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-30233-7/MediaObjects/41467_2022_30233_Fig1_HTML.png?as=webp
+  tags:
+  - Pediatrics
+  - Whole Genome Sequencing
+  - Isabl
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12859-020-03879-7
+  title: Isabl Platform, a digital biobank for processing multimodal patient data
+  authors:
+  - "Juan S. Medina-Mart\xEDnez"
+  - Juan E. Arango-Ossa
+  - Max F. Levine
+  - Yangyu Zhou
+  - Gunes Gundem
+  - Andrew L. Kung
+  - Elli Papaemmanuil
+  publisher: BMC Bioinformatics
+  date: '2020-11-30'
+  link: https://doi.org/gscb54
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12859-020-03879-7/MediaObjects/12859_2020_3879_Fig1_HTML.png?as=webp
+  buttons:
+  - type: docs
+    text: Documentation
+    link: https://docs.isabl.io
+  tags:
+  - Platform
+  - Bioinformatics
+  - Biobank
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41591-020-1008-z
+  title: Implications of TP53 allelic state for genome stability, clinical presentation
+    and outcomes in myelodysplastic syndromes
+  authors:
+  - Elsa Bernard
+  - Yasuhito Nannya
+  - Robert P. Hasserjian
+  - Sean M. Devlin
+  - Heinz Tuechler
+  - Juan S. Medina-Martinez
+  - Tetsuichi Yoshizato
+  - Yusuke Shiozawa
+  - Ryunosuke Saiki
+  - Luca Malcovati
+  - Max F. Levine
+  - Juan E. Arango
+  - Yangyu Zhou
+  - "Francesc Sol\xE9"
+  - Catherine A. Cargo
+  - Detlef Haase
+  - Maria Creignou
+  - Ulrich Germing
+  - Yanming Zhang
+  - Gunes Gundem
+  - Araxe Sarian
+  - Arjan A. van de Loosdrecht
+  - "Martin J\xE4dersten"
+  - Magnus Tobiasson
+  - Olivier Kosmider
+  - Matilde Y. Follo
+  - Felicitas Thol
+  - Ronald F. Pinheiro
+  - Valeria Santini
+  - Ioannis Kotsianidis
+  - Jacqueline Boultwood
+  - Fabio P. S. Santos
+  - Julie Schanz
+  - Senji Kasahara
+  - Takayuki Ishikawa
+  - Hisashi Tsurumi
+  - Akifumi Takaori-Kondo
+  - Toru Kiguchi
+  - Chantana Polprasert
+  - John M. Bennett
+  - Virginia M. Klimek
+  - Michael R. Savona
+  - Monika Belickova
+  - Christina Ganster
+  - Laura Palomo
+  - Guillermo Sanz
+  - Lionel Ades
+  - Matteo Giovanni Della Porta
+  - Harold K. Elias
+  - Alexandra G. Smith
+  - Yesenia Werner
+  - Minal Patel
+  - "Agn\xE8s Viale"
+  - Katelynd Vanness
+  - Donna S. Neuberg
+  - Kristen E. Stevenson
+  - Kamal Menghrajani
+  - Kelly L. Bolton
+  - Pierre Fenaux
+  - Andrea Pellagatti
+  - Uwe Platzbecker
+  - Michael Heuser
+  - Peter Valent
+  - Shigeru Chiba
+  - Yasushi Miyazaki
+  - Carlo Finelli
+  - Maria Teresa Voso
+  - Lee-Yung Shih
+  - Michaela Fontenay
+  - Joop H. Jansen
+  - "Jos\xE9 Cervera"
+  - Yoshiko Atsuta
+  - Norbert Gattermann
+  - Benjamin L. Ebert
+  - Rafael Bejar
+  - Peter L. Greenberg
+  - Mario Cazzola
+  - "Eva Hellstr\xF6m-Lindberg"
+  - Seishi Ogawa
+  - Elli Papaemmanuil
+  publisher: Nature Medicine
+  date: '2020-08-03'
+  link: https://doi.org/gjhvd2
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-1008-z/MediaObjects/41591_2020_1008_Fig1_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1056/EVIDoa2200008
+  title: Molecular International Prognostic Scoring System for Myelodysplastic Syndromes
+  authors:
+  - Elsa Bernard
+  - Heinz Tuechler
+  - Peter L. Greenberg
+  - Robert P. Hasserjian
+  - Juan E. Arango Ossa
+  - Yasuhito Nannya
+  - Sean M. Devlin
+  - Maria Creignou
+  - Philippe Pinel
+  - Lily Monnier
+  - Gunes Gundem
+  - Juan S. Medina-Martinez
+  - Dylan Domenico
+  - "Martin J\xE4dersten"
+  - Ulrich Germing
+  - Guillermo Sanz
+  - Arjan A. van de Loosdrecht
+  - Olivier Kosmider
+  - Matilde Y. Follo
+  - Felicitas Thol
+  - Lurdes Zamora
+  - Ronald F. Pinheiro
+  - Andrea Pellagatti
+  - Harold K. Elias
+  - Detlef Haase
+  - Christina Ganster
+  - Lionel Ades
+  - Magnus Tobiasson
+  - Laura Palomo
+  - Matteo Giovanni Della Porta
+  - Akifumi Takaori-Kondo
+  - Takayuki Ishikawa
+  - Shigeru Chiba
+  - Senji Kasahara
+  - Yasushi Miyazaki
+  - Agnes Viale
+  - Kety Huberman
+  - Pierre Fenaux
+  - Monika Belickova
+  - Michael R. Savona
+  - Virginia M. Klimek
+  - Fabio P. S. Santos
+  - Jacqueline Boultwood
+  - Ioannis Kotsianidis
+  - Valeria Santini
+  - "Francesc Sol\xE9"
+  - Uwe Platzbecker
+  - Michael Heuser
+  - Peter Valent
+  - Kazuma Ohyashiki
+  - Carlo Finelli
+  - Maria Teresa Voso
+  - Lee-Yung Shih
+  - Michaela Fontenay
+  - Joop H. Jansen
+  - "Jos\xE9 Cervera"
+  - Norbert Gattermann
+  - Benjamin L. Ebert
+  - Rafael Bejar
+  - Luca Malcovati
+  - Mario Cazzola
+  - Seishi Ogawa
+  - "Eva Hellstr\xF6m-Lindberg"
+  - Elli Papaemmanuil
+  publisher: NEJM Evidence
+  date: '2022-06-28'
+  link: https://doi.org/grb2tb
+  image: https://evidence.nejm.org/cms/10.1056/EVIDoa2200008/asset/6e698239-222b-49ea-baaa-e64268197dfa/assets/images/large/evidoa2200008_f2.jpg
+  buttons:
+  - type: package
+    text: R Package
+    link: https://github.com/papaemmelab/ipssm
+  - type: website
+    text: Calculator
+    link: http://www.mds-risk-model.com
+  tags:
+  - MDS
+  - Cancer
+  - Hematology
+  repo: papaemmelab/ipssm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-022-32103-8
+  title: Unified classification and risk-stratification in Acute Myeloid Leukemia
+  authors:
+  - Yanis Tazi
+  - Juan E. Arango-Ossa
+  - Yangyu Zhou
+  - Elsa Bernard
+  - Ian Thomas
+  - Amanda Gilkes
+  - Sylvie Freeman
+  - Yoann Pradat
+  - Sean J. Johnson
+  - Robert Hills
+  - Richard Dillon
+  - Max F. Levine
+  - Daniel Leongamornlert
+  - Adam Butler
+  - Arnold Ganser
+  - Lars Bullinger
+  - "Konstanze D\xF6hner"
+  - Oliver Ottmann
+  - Richard Adams
+  - "Hartmut D\xF6hner"
+  - Peter J. Campbell
+  - Alan K. Burnett
+  - Michael Dennis
+  - Nigel H. Russell
+  - Sean M. Devlin
+  - Brian J. P. Huntly
+  - Elli Papaemmanuil
+  publisher: Nature Communications
+  date: '2022-08-08'
+  link: https://doi.org/gsb9z8
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-32103-8/MediaObjects/41467_2022_32103_Fig3_HTML.png?as=webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ng.2874
+  title: RAG-mediated recombination is the predominant driver of oncogenic rearrangement
+    in ETV6-RUNX1 acute lymphoblastic leukemia
+  authors:
+  - Elli Papaemmanuil
+  - Inmaculada Rapado
+  - Yilong Li
+  - Nicola E Potter
+  - David C Wedge
+  - Jose Tubio
+  - Ludmil B Alexandrov
+  - Peter Van Loo
+  - Susanna L Cooke
+  - John Marshall
+  - Inigo Martincorena
+  - Jonathan Hinton
+  - Gunes Gundem
+  - Frederik W van Delft
+  - Serena Nik-Zainal
+  - David R Jones
+  - Manasa Ramakrishna
+  - Ian Titley
+  - Lucy Stebbings
+  - Catherine Leroy
+  - Andrew Menzies
+  - John Gamble
+  - Ben Robinson
+  - Laura Mudie
+  - Keiran Raine
+  - Sarah O'Meara
+  - Jon W Teague
+  - Adam P Butler
+  - Giovanni Cazzaniga
+  - Andrea Biondi
+  - Jan Zuna
+  - Helena Kempski
+  - Markus Muschen
+  - Anthony M Ford
+  - Michael R Stratton
+  - Mel Greaves
+  - Peter J Campbell
+  publisher: Nature Genetics
+  date: '2014-01-12'
+  link: https://doi.org/f5r9v2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms6901
+  title: Combining gene mutation with gene expression data improves outcome prediction
+    in myelodysplastic syndromes
+  authors:
+  - Moritz Gerstung
+  - Andrea Pellagatti
+  - Luca Malcovati
+  - Aristoteles Giagounidis
+  - Matteo G Della Porta
+  - "Martin J\xE4dersten"
+  - Hamid Dolatshad
+  - Amit Verma
+  - Nicholas C. P. Cross
+  - Paresh Vyas
+  - Sally Killick
+  - "Eva Hellstr\xF6m-Lindberg"
+  - Mario Cazzola
+  - Elli Papaemmanuil
+  - Peter J. Campbell
+  - Jacqueline Boultwood
+  publisher: Nature Communications
+  date: '2015-01-09'
+  link: https://doi.org/f3nqzc
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btt750
+  title: Subclonal variant calling with multiple samples and prior knowledge
+  authors:
+  - Moritz Gerstung
+  - Elli Papaemmanuil
+  - Peter J. Campbell
+  publisher: Bioinformatics
+  date: '2014-01-16'
+  link: https://doi.org/f535vv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood-2013-08-518886
+  title: Clinical and biological implications of driver mutations in myelodysplastic
+    syndromes
+  authors:
+  - Elli Papaemmanuil
+  - Moritz Gerstung
+  - Luca Malcovati
+  - Sudhir Tauro
+  - Gunes Gundem
+  - Peter Van Loo
+  - Chris J. Yoon
+  - Peter Ellis
+  - David C. Wedge
+  - Andrea Pellagatti
+  - Adam Shlien
+  - Michael John Groves
+  - Simon A. Forbes
+  - Keiran Raine
+  - Jon Hinton
+  - Laura J. Mudie
+  - Stuart McLaren
+  - Claire Hardy
+  - Calli Latimer
+  - Matteo G. Della Porta
+  - "Sarah O\u2019Meara"
+  - Ilaria Ambaglio
+  - Anna Galli
+  - Adam P. Butler
+  - Gunilla Walldin
+  - Jon W. Teague
+  - Lynn Quek
+  - Alex Sternberg
+  - Carlo Gambacorti-Passerini
+  - Nicholas C. P. Cross
+  - Anthony R. Green
+  - Jacqueline Boultwood
+  - Paresh Vyas
+  - Eva Hellstrom-Lindberg
+  - David Bowen
+  - Mario Cazzola
+  - Michael R. Stratton
+  - Peter J. Campbell
+  publisher: Blood
+  date: '2013-11-21'
+  link: https://doi.org/f2446f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ng.430
+  title: Loci on 7p12.2, 10q21.2 and 14q11.2 are associated with risk of childhood
+    acute lymphoblastic leukemia
+  authors:
+  - Elli Papaemmanuil
+  - Fay J Hosking
+  - Jayaram Vijayakrishnan
+  - Amy Price
+  - Bianca Olver
+  - Eammon Sheridan
+  - Sally E Kinsey
+  - Tracy Lightfoot
+  - Eve Roman
+  - Julie A E Irving
+  - James M Allan
+  - Ian P Tomlinson
+  - Malcolm Taylor
+  - Mel Greaves
+  - Richard S Houlston
+  publisher: Nature Genetics
+  date: '2009-08-16'
+  link: https://doi.org/bwz5kq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/bloodadvances.2021006325
+  title: Patient-specific MDS-RS iPSCs define the mis-spliced transcript repertoire
+    and chromatin landscape of <i>SF3B1</i>-mutant HSPCs
+  authors:
+  - Georgios Asimomitis
+  - "Andr\xE9 G. Deslauriers"
+  - Andriana G. Kotini
+  - Elsa Bernard
+  - Davide Esposito
+  - Malgorzata Olszewska
+  - Nikolaos Spyrou
+  - Juan Arango Ossa
+  - Teresa Mortera-Blanco
+  - Richard Koche
+  - Yasuhito Nannya
+  - Luca Malcovati
+  - Seishi Ogawa
+  - Mario Cazzola
+  - Stuart A. Aaronson
+  - "Eva Hellstr\xF6m-Lindberg"
+  - Elli Papaemmanuil
+  - Eirini P. Papapetrou
+  publisher: Blood Advances
+  date: '2022-05-16'
+  link: https://doi.org/gpvj89
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41375-022-01537-w
+  title: "\u201CRandomized phase II study of azacitidine \xB1 lenalidomide in higher-risk\
+    \ myelodysplastic syndromes and acute myeloid leukemia with a karyotype including\
+    \ Del(5q)\u201D"
+  authors:
+  - Bengt Rasmussen
+  - "Gudrun G\xF6hring"
+  - Elsa Bernard
+  - Lars Nilsson
+  - Magnus Tobiasson
+  - "Martin J\xE4dersten"
+  - Hege Garelius
+  - Ingunn Dybedal
+  - "Kirsten Gr\xF8nbaek"
+  - Elisabeth Ejerblad
+  - Fryderyk Lorenz
+  - "Max Flogeg\xE5rd"
+  - Claus Werenberg Marcher
+  - "Annette \xD6ster Fernstr\xF6m"
+  - Lucia Cavelier
+  - Elli Papaemmanuil
+  - Freja Ebeling
+  - Astrid Olsnes Kittang
+  - "Jan Maxwell N\xF8rgaard"
+  - Leonie Saft
+  - "Lars M\xF6llg\xE5rd"
+  - "Eva Hellstr\xF6m-Lindberg"
+  publisher: Leukemia
+  date: '2022-03-11'
+  link: https://doi.org/gpn99x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41375-021-01448-2
+  title: 'Prognostic impact of chromosomal abnormalities and copy number alterations
+    in adult B-cell precursor acute lymphoblastic leukaemia: a UKALL14 study'
+  authors:
+  - Anthony V. Moorman
+  - Emilio Barretta
+  - Ellie R. Butler
+  - Eleanor J. Ward
+  - Katie Twentyman
+  - Amy A. Kirkwood
+  - Amir Enshaei
+  - Claire Schwab
+  - Tom Creasey
+  - Daniel Leongamornlert
+  - Elli Papaemmanuil
+  - Pip Patrick
+  - Laura Clifton-Hadley
+  - Bela Patel
+  - Tobias Menne
+  - Andrew K. McMillan
+  - Christine J. Harrison
+  - Clare J. Rowntree
+  - David I. Marks
+  - Adele K. Fielding
+  publisher: Leukemia
+  date: '2021-10-16'
+  link: https://doi.org/gpg3vz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3324/haematol.2021.279177
+  title: 'Genetic and genomic analysis of acute lymphoblastic leukemia in older adults
+    reveals a distinct profile of abnormalities: analysis of 210 patients from the
+    UKALL14 and UKALL60+ clinical trials'
+  authors:
+  - Thomas Creasey
+  - Emilio Barretta
+  - Sarra L. Ryan
+  - Ellie Butler
+  - Amy A. Kirkwood
+  - Daniel Leongamornlert
+  - Elli Papaemmanuil
+  - Pip Patrick
+  - Laura Clifton-Hadley
+  - Bela Patel
+  - Tobias Menne
+  - Andrew K. McMillan
+  - Christine J. Harrison
+  - Clare J. Rowntree
+  - Nick Morley
+  - David I. Marks
+  - Adele K. Fielding
+  - Anthony V. Moorman
+  publisher: Haematologica
+  date: '2021-11-18'
+  link: https://doi.org/gscb55
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1056/NEJMoa1516192
+  title: Genomic Classification and Prognosis in Acute Myeloid Leukemia
+  authors:
+  - Elli Papaemmanuil
+  - Moritz Gerstung
+  - Lars Bullinger
+  - Verena I. Gaidzik
+  - Peter Paschka
+  - Nicola D. Roberts
+  - Nicola E. Potter
+  - Michael Heuser
+  - Felicitas Thol
+  - Niccolo Bolli
+  - Gunes Gundem
+  - Peter Van Loo
+  - Inigo Martincorena
+  - Peter Ganly
+  - Laura Mudie
+  - Stuart McLaren
+  - "Sarah O\u2019Meara"
+  - Keiran Raine
+  - David R. Jones
+  - Jon W. Teague
+  - Adam P. Butler
+  - Mel F. Greaves
+  - Arnold Ganser
+  - "Konstanze D\xF6hner"
+  - Richard F. Schlenk
+  - "Hartmut D\xF6hner"
+  - Peter J. Campbell
+  publisher: New England Journal of Medicine
+  date: '2016-06-09'
+  link: https://doi.org/gdb85h
+  image: https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2016/nejm_2016.374.issue-23/nejmoa1516192/20180329/images/img_medium/nejmoa1516192_f2.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1056/NEJMoa1412098
+  title: Effect of Mutation Order on Myeloproliferative Neoplasms
+  authors:
+  - Christina A. Ortmann
+  - David G. Kent
+  - Jyoti Nangalia
+  - Yvonne Silber
+  - David C. Wedge
+  - Jacob Grinfeld
+  - E. Joanna Baxter
+  - Charles E. Massie
+  - Elli Papaemmanuil
+  - Suraj Menon
+  - Anna L. Godfrey
+  - Danai Dimitropoulou
+  - Paola Guglielmelli
+  - Beatriz Bellosillo
+  - Carles Besses
+  - "Konstanze D\xF6hner"
+  - Claire N. Harrison
+  - George S. Vassiliou
+  - Alessandro Vannucchi
+  - Peter J. Campbell
+  - Anthony R. Green
+  publisher: New England Journal of Medicine
+  date: '2015-02-12'
+  link: https://doi.org/z9f
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3324/haematol.2014.113381
+  title: Characterization of gene mutations and copy number changes in acute myeloid
+    leukemia using a rapid target enrichment protocol
+  authors:
+  - N. Bolli
+  - N. Manes
+  - T. McKerrell
+  - J. Chi
+  - N. Park
+  - G. Gundem
+  - M. A. Quail
+  - V. Sathiaseelan
+  - B. Herman
+  - C. Crawley
+  - J. I. O. Craig
+  - N. Conte
+  - C. Grove
+  - E. Papaemmanuil
+  - P. J. Campbell
+  - I. Varela
+  - P. Costeas
+  - G. S. Vassiliou
+  publisher: Haematologica
+  date: '2014-11-07'
+  link: https://doi.org/f63xq2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood-2014-06-579466
+  title: Recurrent ETNK1 mutations in atypical chronic myeloid leukemia
+  authors:
+  - Carlo B. Gambacorti-Passerini
+  - Carla Donadoni
+  - Andrea Parmiani
+  - Alessandra Pirola
+  - Sara Redaelli
+  - Giovanni Signore
+  - Vincenzo Piazza
+  - Luca Malcovati
+  - Diletta Fontana
+  - Roberta Spinelli
+  - Vera Magistroni
+  - Giuseppe Gaipa
+  - Marco Peronaci
+  - Alessandro Morotti
+  - Cristina Panuzzo
+  - Giuseppe Saglio
+  - Emilio Usala
+  - Dong-Wook Kim
+  - Delphine Rea
+  - Konstantinos Zervakis
+  - Nora Viniou
+  - Argiris Symeonidis
+  - Heiko Becker
+  - Jacqueline Boultwood
+  - Leonardo Campiotti
+  - Matteo Carrabba
+  - Elena Elli
+  - Graham R. Bignell
+  - Elli Papaemmanuil
+  - Peter J. Campbell
+  - Mario Cazzola
+  - Rocco Piazza
+  publisher: Blood
+  date: '2015-01-15'
+  link: https://doi.org/f64ng2
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/leu.2014.161
+  title: 'Minimal morphological criteria for defining bone marrow dysplasia: a basis
+    for clinical implementation of WHO classification of myelodysplastic syndromes'
+  authors:
+  - M G Della Porta
+  - E Travaglino
+  - E Boveri
+  - M Ponzoni
+  - L Malcovati
+  - E Papaemmanuil
+  - G M Rigolin
+  - C Pascutto
+  - G Croci
+  - U Gianelli
+  - R Milani
+  - I Ambaglio
+  - C Elena
+  - M Ubezio
+  - "M C Da Via\u2019"
+  - E Bono
+  - D Pietra
+  - F Quaglia
+  - R Bastia
+  - V Ferretti
+  - A Cuneo
+  - E Morra
+  - P J Campbell
+  - A Orazi
+  - R Invernizzi
+  - M Cazzola
+  publisher: Leukemia
+  date: '2014-05-20'
+  link: https://doi.org/f6wfqs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/leu.2014.331
+  title: Disruption of SF3B1 results in deregulated expression and splicing of key
+    genes and pathways in myelodysplastic syndrome hematopoietic stem and progenitor
+    cells
+  authors:
+  - H Dolatshad
+  - A Pellagatti
+  - M Fernandez-Mercado
+  - B H Yip
+  - L Malcovati
+  - M Attwood
+  - B Przychodzen
+  - N Sahgal
+  - A A Kanapin
+  - H Lockstone
+  - L Scifo
+  - P Vandenberghe
+  - E Papaemmanuil
+  - C W J Smith
+  - P J Campbell
+  - S Ogawa
+  - J P Maciejewski
+  - M Cazzola
+  - K I Savage
+  - J Boultwood
+  publisher: Leukemia
+  date: '2014-11-27'
+  link: https://doi.org/gnh37v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood-2014-09-603043
+  title: Nongenetic stochastic expansion of JAK2V617F-homozygous subclones in polycythemia
+    vera?
+  authors:
+  - Anna L. Godfrey
+  - Jyoti Nangalia
+  - E. Joanna Baxter
+  - Charles E. Massie
+  - David G. Kent
+  - Elli Papaemmanuil
+  - Peter J. Campbell
+  - Anthony R. Green
+  publisher: Blood
+  date: '2014-11-20'
+  link: https://doi.org/gscb56
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.02935
+  title: Origins and functional consequences of somatic mitochondrial DNA mutations
+    in human cancer
+  authors:
+  - Young Seok Ju
+  - Ludmil B Alexandrov
+  - Moritz Gerstung
+  - Inigo Martincorena
+  - Serena Nik-Zainal
+  - Manasa Ramakrishna
+  - Helen R Davies
+  - Elli Papaemmanuil
+  - Gunes Gundem
+  - Adam Shlien
+  - Niccolo Bolli
+  - Sam Behjati
+  - Patrick S Tarpey
+  - Jyoti Nangalia
+  - Charles E Massie
+  - Adam P Butler
+  - Jon W Teague
+  - George S Vassiliou
+  - Anthony R Green
+  - Ming-Qing Du
+  - Ashwin Unnikrishnan
+  - John E Pimanda
+  - Bin Tean Teh
+  - Nikhil Munshi
+  - Mel Greaves
+  - Paresh Vyas
+  - Adel K El-Naggar
+  - Tom Santarius
+  - V Peter Collins
+  - Richard Grundy
+  - Jack A Taylor
+  - D Neil Hayes
+  - David Malkin
+  - Christopher S Foster
+  - Anne Y Warren
+  - Hayley C Whitaker
+  - Daniel Brewer
+  - Rosalind Eeles
+  - Colin Cooper
+  - David Neal
+  - Tapio Visakorpi
+  - William B Isaacs
+  - G Steven Bova
+  - Adrienne M Flanagan
+  - P Andrew Futreal
+  - Andy G Lynch
+  - Patrick F Chinnery
+  - Ultan McDermott
+  - Michael R Stratton
+  - Peter J Campbell
   publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  date: '2014-10-01'
+  link: https://doi.org/f8mc6t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood-2014-03-560227
+  title: Driver somatic mutations identify distinct disease entities within myeloid
+    neoplasms with myelodysplasia
+  authors:
+  - Luca Malcovati
+  - Elli Papaemmanuil
+  - Ilaria Ambaglio
+  - Chiara Elena
+  - "Anna Gall\xEC"
+  - Matteo G. Della Porta
+  - Erica Travaglino
+  - Daniela Pietra
+  - Cristiana Pascutto
+  - Marta Ubezio
+  - Elisa Bono
+  - "Matteo C. Da Vi\xE0"
+  - Angela Brisci
+  - Francesca Bruno
+  - Laura Cremonesi
+  - Maurizio Ferrari
+  - Emanuela Boveri
+  - Rosangela Invernizzi
+  - Peter J. Campbell
+  - Mario Cazzola
+  publisher: Blood
+  date: '2014-08-28'
+  link: https://doi.org/f6jm8z
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/science.1251343
+  title: Extensive transduction of nonrepetitive DNA mediated by L1 retrotransposition
+    in cancer genomes
+  authors:
+  - Jose M. C. Tubio
+  - Yilong Li
+  - Young Seok Ju
+  - Inigo Martincorena
+  - Susanna L. Cooke
+  - Marta Tojo
+  - Gunes Gundem
+  - Christodoulos P. Pipinikas
+  - Jorge Zamora
+  - Keiran Raine
+  - Andrew Menzies
+  - Pablo Roman-Garcia
+  - Anthony Fullam
+  - Moritz Gerstung
+  - Adam Shlien
+  - Patrick S. Tarpey
+  - Elli Papaemmanuil
+  - Stian Knappskog
+  - Peter Van Loo
+  - Manasa Ramakrishna
+  - Helen R. Davies
+  - John Marshall
+  - David C. Wedge
+  - Jon W. Teague
+  - Adam P. Butler
+  - Serena Nik-Zainal
+  - Ludmil Alexandrov
+  - Sam Behjati
+  - Lucy R. Yates
+  - Niccolo Bolli
+  - Laura Mudie
+  - Claire Hardy
+  - Sancha Martin
+  - Stuart McLaren
+  - "Sarah O\u2019Meara"
+  - Elizabeth Anderson
+  - Mark Maddison
+  - Stephen Gamble
+  - Christopher Foster
+  - Anne Y. Warren
+  - Hayley Whitaker
+  - Daniel Brewer
+  - Rosalind Eeles
+  - Colin Cooper
+  - David Neal
+  - Andy G. Lynch
+  - Tapio Visakorpi
+  - William B. Isaacs
+  - Laura van't Veer
+  - Carlos Caldas
+  - Christine Desmedt
+  - Christos Sotiriou
+  - Sam Aparicio
+  - John A. Foekens
+  - "J\xF3runn Erla Eyfj\xF6rd"
+  - Sunil R. Lakhani
+  - Gilles Thomas
+  - Ola Myklebost
+  - Paul N. Span
+  - "Anne-Lise B\xF8rresen-Dale"
+  - Andrea L. Richardson
+  - Marc Van de Vijver
+  - Anne Vincent-Salomon
+  - Gert G. Van den Eynden
+  - Adrienne M. Flanagan
+  - P. Andrew Futreal
+  - Sam M. Janes
+  - G. Steven Bova
+  - Michael R. Stratton
+  - Ultan McDermott
+  - Peter J. Campbell
+  publisher: Science
+  date: '2014-08-01'
+  link: https://doi.org/f6b9k9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ccr.2014.03.036
+  title: "Myelodysplastic Syndromes Are Propagated by Rare and Distinct Human Cancer\
+    \ Stem Cells In\_Vivo"
+  authors:
+  - "Petter\_S. Woll"
+  - "Una Kj\xE4llquist"
+  - Onima Chowdhury
+  - Helen Doolittle
+  - "David\_C. Wedge"
+  - Supat Thongjuea
+  - Rikard Erlandsson
+  - Mtakai Ngara
+  - Kristina Anderson
+  - Qiaolin Deng
+  - "Adam\_J. Mead"
+  - Laura Stenson
+  - Alice Giustacchini
+  - Sara Duarte
+  - Eleni Giannoulatou
+  - Stephen Taylor
+  - Mohsen Karimi
+  - Christian Scharenberg
+  - Teresa Mortera-Blanco
+  - "Iain\_C. Macaulay"
+  - Sally-Ann Clark
+  - Ingunn Dybedal
+  - Dag Josefsen
+  - Pierre Fenaux
+  - Peter Hokland
+  - "Mette\_S. Holm"
+  - Mario Cazzola
+  - Luca Malcovati
+  - Sudhir Tauro
+  - David Bowen
+  - Jacqueline Boultwood
+  - Andrea Pellagatti
+  - "John\_E. Pimanda"
+  - Ashwin Unnikrishnan
+  - Paresh Vyas
+  - "Gudrun G\xF6hring"
+  - Brigitte Schlegelberger
+  - Magnus Tobiasson
+  - Gunnar Kvalheim
+  - "Stefan\_N. Constantinescu"
+  - Claus Nerlov
+  - Lars Nilsson
+  - "Peter\_J. Campbell"
+  - Rickard Sandberg
+  - Elli Papaemmanuil
+  - "Eva Hellstr\xF6m-Lindberg"
+  - Sten Linnarsson
+  - "Sten\_Eirik\_W. Jacobsen"
+  publisher: Cancer Cell
+  date: '2014-06-01'
+  link: https://doi.org/f224wv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ng.2955
+  title: Association of a germline copy number polymorphism of APOBEC3A and APOBEC3B
+    with burden of putative APOBEC-dependent mutations in breast cancer
+  authors:
+  - Serena Nik-Zainal
+  - David C Wedge
+  - Ludmil B Alexandrov
+  - Mia Petljak
+  - Adam P Butler
+  - Niccolo Bolli
+  - Helen R Davies
+  - Stian Knappskog
+  - Sancha Martin
+  - Elli Papaemmanuil
+  - Manasa Ramakrishna
+  - Adam Shlien
+  - Ingrid Simonic
+  - Yali Xue
+  - Chris Tyler-Smith
+  - Peter J Campbell
+  - Michael R Stratton
+  publisher: Nature Genetics
+  date: '2014-04-13'
+  link: https://doi.org/f52zw3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms4644
+  title: Processed pseudogenes acquired somatically during cancer development
+  authors:
+  - Susanna L. Cooke
+  - Adam Shlien
+  - John Marshall
+  - Christodoulos P. Pipinikas
+  - Inigo Martincorena
+  - Jose M.C. Tubio
+  - Yilong Li
+  - Andrew Menzies
+  - Laura Mudie
+  - Manasa Ramakrishna
+  - Lucy Yates
+  - Helen Davies
+  - Niccolo Bolli
+  - Graham R. Bignell
+  - Patrick S. Tarpey
+  - Sam Behjati
+  - Serena Nik-Zainal
+  - Elli Papaemmanuil
+  - Vitor H. Teixeira
+  - Keiran Raine
+  - "Sarah O\u2019Meara"
+  - Maryam S. Dodoran
+  - Jon W. Teague
+  - Adam P. Butler
+  - Christine Iacobuzio-Donahue
+  - Thomas Santarius
+  - Richard G. Grundy
+  - David Malkin
+  - Mel Greaves
+  - Nikhil Munshi
+  - Adrienne M. Flanagan
+  - David Bowtell
+  - Sancha Martin
+  - Denis Larsimont
+  - Jorge S. Reis-Filho
+  - Alex Boussioutas
+  - Jack A. Taylor
+  - Neil D. Hayes
+  - Sam M. Janes
+  - P. Andrew Futreal
+  - Michael R. Stratton
+  - Ultan McDermott
+  - Peter J. Campbell
+  - Elena Provenzano
+  - Marc van de Vijver
+  - Andrea L. Richardson
+  - Colin Purdie
+  - Sarah Pinder
+  - Gaetan Mac Grogan
+  - Anne Vincent-Salomon
+  - Denis Larsimont
+  - Dorthe Grabau
+  - Torill Sauer
+  - "\xD8ystein Garred"
+  - Anna Ehinger
+  - Gert G. Van den Eynden
+  - C.H.M van Deurzen
+  - Roberto Salgado
+  - Jane E. Brock
+  - Sunil R. Lakhani
+  - Dilip D. Giri
+  - Laurent Arnould
+  - Jocelyne Jacquemier
+  - Isabelle Treilleux
+  - Carlos Caldas
+  - Suet-Feung Chin
+  - Aquila Fatima
+  - Alastair M. Thompson
+  - Alasdair Stenhouse
+  - John Foekens
+  - John Martens
+  - Anieta Sieuwerts
+  - Arjen Brinkman
+  - Henk Stunnenberg
+  - Paul N. Span
+  - Fred Sweep
+  - Christine Desmedt
+  - Christos Sotiriou
+  - Gilles Thomas
+  - Annegein Broeks
+  - Anita Langerod
+  - Samuel Aparicio
+  - Peter T. Simpson
+  - "Laura van \u2019t Veer"
+  - "J\xF3runn Erla Eyfj\xF6rd"
+  - Holmfridur Hilmarsdottir
+  - Jon G. Jonasson
+  - "Anne-Lise B\xF8rresen-Dale"
+  - Ming Ta Michael Lee
+  - Bernice Huimin Wong
+  - Benita Kiat Tee Tan
+  - Gerrit K.J. Hooijer
+  publisher: Nature Communications
+  date: '2014-04-09'
+  link: https://doi.org/f6wmjw
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature13115
+  title: Constitutional and somatic rearrangement of chromosome 21 in acute lymphoblastic
+    leukaemia
+  authors:
+  - Yilong Li
+  - Claire Schwab
+  - Sarra L. Ryan
+  - Elli Papaemmanuil
+  - Hazel M. Robinson
+  - Patricia Jacobs
+  - Anthony V. Moorman
+  - Sara Dyer
+  - Julian Borrow
+  - Mike Griffiths
+  - Nyla A. Heerema
+  - Andrew J. Carroll
+  - Polly Talley
+  - Nick Bown
+  - Nick Telford
+  - Fiona M. Ross
+  - Lorraine Gaunt
+  - Richard J. Q. McNally
+  - Bryan D. Young
+  - Paul Sinclair
+  - Vikki Rand
+  - Manuel R. Teixeira
+  - Olivia Joseph
+  - Ben Robinson
+  - Mark Maddison
+  - Nicole Dastugue
+  - Peter Vandenberghe
+  - Claudia Haferlach
+  - Philip J. Stephens
+  - Jiqiu Cheng
+  - Peter Van Loo
+  - Michael R. Stratton
+  - Peter J. Campbell
+  - Christine J. Harrison
+  publisher: Nature
+  date: '2014-03-23'
+  link: https://doi.org/ggp3cb
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ng.2921
+  title: Recurrent PTPRB and PLCG1 mutations in angiosarcoma
+  authors:
+  - Sam Behjati
+  - Patrick S Tarpey
+  - Helen Sheldon
+  - Inigo Martincorena
+  - Peter Van Loo
+  - Gunes Gundem
+  - David C Wedge
+  - Manasa Ramakrishna
+  - Susanna L Cooke
+  - Nischalan Pillay
+  - Hans Kristian M Vollan
+  - Elli Papaemmanuil
+  - Hans Koss
+  - Tom D Bunney
+  - Claire Hardy
+  - Olivia R Joseph
+  - Sancha Martin
+  - Laura Mudie
+  - Adam Butler
+  - Jon W Teague
+  - Meena Patil
+  - Graham Steers
+  - Yu Cao
+  - Curtis Gumbs
+  - Davis Ingram
+  - Alexander J Lazar
+  - Latasha Little
+  - Harshad Mahadeshwar
+  - Alexei Protopopov
+  - Ghadah A Al Sannaa
+  - Sahil Seth
+  - Xingzhi Song
+  - Jiabin Tang
+  - Jianhua Zhang
+  - Vinod Ravi
+  - Keila E Torres
+  - Bhavisha Khatri
+  - Dina Halai
+  - Ioannis Roxanis
+  - Daniel Baumhoer
+  - Roberto Tirabosco
+  - M Fernanda Amary
+  - Chris Boshoff
+  - Ultan McDermott
+  - Matilda Katan
+  - Michael R Stratton
+  - P Andrew Futreal
+  - Adrienne M Flanagan
+  - Adrian Harris
+  - Peter J Campbell
+  publisher: Nature Genetics
+  date: '2014-03-16'
+  link: https://doi.org/f5x3r9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ng.2846
+  title: Inactivating CUX1 mutations promote tumorigenesis
+  authors:
+  - Chi C Wong
+  - Inigo Martincorena
+  - Alistair G Rust
+  - Mamunur Rashid
+  - Constantine Alifrangis
+  - Ludmil B Alexandrov
+  - Jessamy C Tiffen
+  - Christina Kober
+  - Anthony R Green
+  - Charles E Massie
+  - Jyoti Nangalia
+  - Stella Lempidaki
+  - "Hartmut D\xF6hner"
+  - "Konstanze D\xF6hner"
+  - Sarah J Bray
+  - Ultan McDermott
+  - Elli Papaemmanuil
+  - Peter J Campbell
+  - David J Adams
+  publisher: Nature Genetics
+  date: '2013-12-08'
+  link: https://doi.org/gmz3kn
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1056/NEJMoa1312542
+  title: Somatic<i>CALR</i>Mutations in Myeloproliferative Neoplasms with Nonmutated<i>JAK2</i>
+  authors:
+  - J. Nangalia
+  - C.E. Massie
+  - E.J. Baxter
+  - F.L. Nice
+  - G. Gundem
+  - D.C. Wedge
+  - E. Avezov
+  - J. Li
+  - K. Kollmann
+  - D.G. Kent
+  - A. Aziz
+  - A.L. Godfrey
+  - J. Hinton
+  - I. Martincorena
+  - P. Van Loo
+  - A.V. Jones
+  - P. Guglielmelli
+  - P. Tarpey
+  - H.P. Harding
+  - J.D. Fitzpatrick
+  - C.T. Goudie
+  - C.A. Ortmann
+  - S.J. Loughran
+  - K. Raine
+  - D.R. Jones
+  - A.P. Butler
+  - J.W. Teague
+  - S. O'Meara
+  - S. McLaren
+  - M. Bianchi
+  - Y. Silber
+  - D. Dimitropoulou
+  - D. Bloxham
+  - L. Mudie
+  - M. Maddison
+  - B. Robinson
+  - C. Keohane
+  - C. Maclean
+  - K. Hill
+  - K. Orchard
+  - S. Tauro
+  - M.-Q. Du
+  - M. Greaves
+  - D. Bowen
+  - B.J.P. Huntly
+  - C.N. Harrison
+  - N.C.P. Cross
+  - D. Ron
+  - A.M. Vannucchi
+  - E. Papaemmanuil
+  - P.J. Campbell
+  - A.R. Green
+  publisher: New England Journal of Medicine
+  date: '2013-12-19'
+  link: https://doi.org/f5knv5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/gr.159913.113
+  title: Single-cell mutational profiling and clonal phylogeny in cancer
+  authors:
+  - Nicola E. Potter
+  - Luca Ermini
+  - Elli Papaemmanuil
+  - Giovanni Cazzaniga
+  - Gowri Vijayaraghavan
+  - Ian Titley
+  - Anthony Ford
+  - Peter Campbell
+  - Lyndal Kearney
+  - Mel Greaves
+  publisher: Genome Research
+  date: '2013-09-20'
+  link: https://doi.org/f5jjcr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature12477
+  title: Signatures of mutational processes in human cancer
+  authors:
+  - Ludmil B. Alexandrov
+  - Serena Nik-Zainal
+  - David C. Wedge
+  - Samuel A. J. R. Aparicio
+  - Sam Behjati
+  - Andrew V. Biankin
+  - Graham R. Bignell
+  - "Niccol\xF2 Bolli"
+  - Ake Borg
+  - "Anne-Lise B\xF8rresen-Dale"
+  - Sandrine Boyault
+  - Birgit Burkhardt
+  - Adam P. Butler
+  - Carlos Caldas
+  - Helen R. Davies
+  - Christine Desmedt
+  - Roland Eils
+  - "J\xF3runn Erla Eyfj\xF6rd"
+  - John A. Foekens
+  - Mel Greaves
+  - Fumie Hosoda
+  - Barbara Hutter
+  - Tomislav Ilicic
+  - Sandrine Imbeaud
+  - Marcin Imielinski
+  - "Natalie J\xE4ger"
+  - David T. W. Jones
+  - David Jones
+  - Stian Knappskog
+  - Marcel Kool
+  - Sunil R. Lakhani
+  - "Carlos L\xF3pez-Ot\xEDn"
+  - Sancha Martin
+  - Nikhil C. Munshi
+  - Hiromi Nakamura
+  - Paul A. Northcott
+  - Marina Pajic
+  - Elli Papaemmanuil
+  - Angelo Paradiso
+  - John V. Pearson
+  - Xose S. Puente
+  - Keiran Raine
+  - Manasa Ramakrishna
+  - Andrea L. Richardson
+  - Julia Richter
+  - Philip Rosenstiel
+  - Matthias Schlesner
+  - Ton N. Schumacher
+  - Paul N. Span
+  - Jon W. Teague
+  - Yasushi Totoki
+  - Andrew N. J. Tutt
+  - "Rafael Vald\xE9s-Mas"
+  - Marit M. van Buuren
+  - "Laura van \u2019t Veer"
+  - Anne Vincent-Salomon
+  - Nicola Waddell
+  - Lucy R. Yates
+  - Jessica Zucman-Rossi
+  - P. Andrew Futreal
+  - Ultan McDermott
+  - Peter Lichter
+  - Matthew Meyerson
+  - Sean M. Grimmond
+  - Reiner Siebert
+  - "El\xEDas Campo"
+  - Tatsuhiro Shibata
+  - Stefan M. Pfister
+  - Peter J. Campbell
+  - Michael R. Stratton
+  publisher: Nature
+  date: '2013-08-14'
+  link: https://doi.org/f22m2q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1172/JCI67201
+  title: Whole exome sequencing of adenoid cystic carcinoma
+  authors:
+  - Philip J. Stephens
+  - Helen R. Davies
+  - Yoshitsugu Mitani
+  - Peter Van Loo
+  - Adam Shlien
+  - Patrick S. Tarpey
+  - Elli Papaemmanuil
+  - Angela Cheverton
+  - Graham R. Bignell
+  - Adam P. Butler
+  - John Gamble
+  - Stephen Gamble
+  - Claire Hardy
+  - Jonathan Hinton
+  - Mingming Jia
+  - Alagu Jayakumar
+  - David Jones
+  - Calli Latimer
+  - Stuart McLaren
+  - David J. McBride
+  - Andrew Menzies
+  - Laura Mudie
+  - Mark Maddison
+  - Keiran Raine
+  - Serena Nik-Zainal
+  - "Sarah O\u2019Meara"
+  - Jon W. Teague
+  - Ignacio Varela
+  - David C. Wedge
+  - Ian Whitmore
+  - Scott M. Lippman
+  - Ultan McDermott
+  - Michael R. Stratton
+  - Peter J. Campbell
+  - Adel K. El-Naggar
+  - P. Andrew Futreal
+  publisher: Journal of Clinical Investigation
+  date: '2013-06-17'
+  link: https://doi.org/f434s9
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/leu.2012.298
+  title: The transporter ABCB7 is a mediator of the phenotype of acquired refractory
+    anemia with ring sideroblasts
+  authors:
+  - M Nikpour
+  - C Scharenberg
+  - A Liu
+  - S Conte
+  - M Karimi
+  - T Mortera-Blanco
+  - V Giai
+  - M Fernandez-Mercado
+  - E Papaemmanuil
+  - "K H\xF6gstrand"
+  - M Jansson
+  - I Vedin
+  - J Stephen Wainscoat
+  - P Campbell
+  - M Cazzola
+  - J Boultwood
+  - A Grandien
+  - "E Hellstr\xF6m-Lindberg"
+  publisher: Leukemia
+  date: '2012-10-16'
+  link: https://doi.org/f25hr3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3324/haematol.2012.077446
+  title: Inappropriately low hepcidin levels in patients with myelodysplastic syndrome
+    carrying a somatic mutation of SF3B1
+  authors:
+  - I. Ambaglio
+  - L. Malcovati
+  - E. Papaemmanuil
+  - C. M. Laarakkers
+  - M. G. Della Porta
+  - A. Galli
+  - M. C. Da Via
+  - E. Bono
+  - M. Ubezio
+  - E. Travaglino
+  - R. Albertini
+  - P. J. Campbell
+  - D. W. Swinkels
+  - M. Cazzola
+  publisher: Haematologica
+  date: '2013-01-08'
+  link: https://doi.org/f4rvkd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ng.2495
+  title: Recurrent SETBP1 mutations in atypical chronic myeloid leukemia
+  authors:
+  - Rocco Piazza
+  - Simona Valletta
+  - Nils Winkelmann
+  - Sara Redaelli
+  - Roberta Spinelli
+  - Alessandra Pirola
+  - Laura Antolini
+  - Luca Mologni
+  - Carla Donadoni
+  - Elli Papaemmanuil
+  - Susanne Schnittger
+  - Dong-Wook Kim
+  - Jacqueline Boultwood
+  - Fabio Rossi
+  - Giuseppe Gaipa
+  - Greta P De Martini
+  - Paola Francia di Celle
+  - Hyun Gyung Jang
+  - Valeria Fantin
+  - Graham R Bignell
+  - Vera Magistroni
+  - Torsten Haferlach
+  - Enrico Maria Pogliani
+  - Peter J Campbell
+  - Andrew J Chase
+  - William J Tapper
+  - Nicholas C P Cross
+  - Carlo Gambacorti-Passerini
+  publisher: Nature Genetics
+  date: '2012-12-09'
+  link: https://doi.org/gscb6c
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2012.04.024
+  title: Mutational Processes Molding the Genomes of 21 Breast Cancers
+  authors:
+  - Serena Nik-Zainal
+  - "Ludmil\_B. Alexandrov"
+  - "David\_C. Wedge"
+  - "Peter Van\_Loo"
+  - "Christopher\_D. Greenman"
+  - Keiran Raine
+  - David Jones
+  - Jonathan Hinton
+  - John Marshall
+  - "Lucy\_A. Stebbings"
+  - Andrew Menzies
+  - Sancha Martin
+  - Kenric Leung
+  - Lina Chen
+  - Catherine Leroy
+  - Manasa Ramakrishna
+  - Richard Rance
+  - "King\_Wai Lau"
+  - "Laura\_J. Mudie"
+  - Ignacio Varela
+  - "David\_J. McBride"
+  - "Graham\_R. Bignell"
+  - "Susanna\_L. Cooke"
+  - Adam Shlien
+  - John Gamble
+  - Ian Whitmore
+  - Mark Maddison
+  - "Patrick\_S. Tarpey"
+  - "Helen\_R. Davies"
+  - Elli Papaemmanuil
+  - "Philip\_J. Stephens"
+  - Stuart McLaren
+  - "Adam\_P. Butler"
+  - "Jon\_W. Teague"
+  - "G\xF6ran J\xF6nsson"
+  - "Judy\_E. Garber"
+  - Daniel Silver
+  - Penelope Miron
+  - Aquila Fatima
+  - Sandrine Boyault
+  - "Anita Langer\xF8d"
+  - Andrew Tutt
+  - "John\_W.M. Martens"
+  - "Samuel\_A.J.R. Aparicio"
+  - "\xC5ke Borg"
+  - "Anne\_Vincent Salomon"
+  - Gilles Thomas
+  - "Anne-Lise B\xF8rresen-Dale"
+  - "Andrea\_L. Richardson"
+  - "Michael\_S. Neuberger"
+  - "P.\_Andrew Futreal"
+  - "Peter\_J. Campbell"
+  - "Michael\_R. Stratton"
+  publisher: Cell
+  date: '2012-05-01'
+  link: https://doi.org/f23k7v
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2012.04.023
+  title: The Life History of 21 Breast Cancers
+  authors:
+  - Serena Nik-Zainal
+  - "Peter Van\_Loo"
+  - "David\_C. Wedge"
+  - "Ludmil\_B. Alexandrov"
+  - "Christopher\_D. Greenman"
+  - "King\_Wai Lau"
+  - Keiran Raine
+  - David Jones
+  - John Marshall
+  - Manasa Ramakrishna
+  - Adam Shlien
+  - "Susanna\_L. Cooke"
+  - Jonathan Hinton
+  - Andrew Menzies
+  - "Lucy\_A. Stebbings"
+  - Catherine Leroy
+  - Mingming Jia
+  - Richard Rance
+  - "Laura\_J. Mudie"
+  - "Stephen\_J. Gamble"
+  - "Philip\_J. Stephens"
+  - Stuart McLaren
+  - "Patrick\_S. Tarpey"
+  - Elli Papaemmanuil
+  - "Helen\_R. Davies"
+  - Ignacio Varela
+  - "David\_J. McBride"
+  - "Graham\_R. Bignell"
+  - Kenric Leung
+  - "Adam\_P. Butler"
+  - "Jon\_W. Teague"
+  - Sancha Martin
+  - "Goran J\xF6nsson"
+  - Odette Mariani
+  - Sandrine Boyault
+  - Penelope Miron
+  - Aquila Fatima
+  - "Anita Langer\xF8d"
+  - "Samuel\_A.J.R. Aparicio"
+  - Andrew Tutt
+  - "Anieta\_M. Sieuwerts"
+  - "\xC5ke Borg"
+  - Gilles Thomas
+  - "Anne\_Vincent Salomon"
+  - "Andrea\_L. Richardson"
+  - "Anne-Lise B\xF8rresen-Dale"
+  - "P.\_Andrew Futreal"
+  - "Michael\_R. Stratton"
+  - "Peter\_J. Campbell"
+  publisher: Cell
+  date: '2012-05-01'
+  link: https://doi.org/f2zxpd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nature11017
+  title: The landscape of cancer genes and mutational processes in breast cancer
+  authors:
+  - Philip J. Stephens
+  - Patrick S. Tarpey
+  - Helen Davies
+  - Peter Van Loo
+  - Chris Greenman
+  - David C. Wedge
+  - Serena Nik-Zainal
+  - Sancha Martin
+  - Ignacio Varela
+  - Graham R. Bignell
+  - Lucy R. Yates
+  - Elli Papaemmanuil
+  - David Beare
+  - Adam Butler
+  - Angela Cheverton
+  - John Gamble
+  - Jonathan Hinton
+  - Mingming Jia
+  - Alagu Jayakumar
+  - David Jones
+  - Calli Latimer
+  - King Wai Lau
+  - Stuart McLaren
+  - David J. McBride
+  - Andrew Menzies
+  - Laura Mudie
+  - Keiran Raine
+  - Roland Rad
+  - Michael Spencer Chapman
+  - Jon Teague
+  - Douglas Easton
+  - "Anita Langer\xF8d"
+  - Ming Ta Michael Lee
+  - Chen-Yang Shen
+  - Benita Tan Kiat Tee
+  - Bernice Wong Huimin
+  - Annegien Broeks
+  - Ana Cristina Vargas
+  - Gulisa Turashvili
+  - John Martens
+  - Aquila Fatima
+  - Penelope Miron
+  - Suet-Feung Chin
+  - Gilles Thomas
+  - Sandrine Boyault
+  - Odette Mariani
+  - Sunil R. Lakhani
+  - Marc van de Vijver
+  - "Laura van \u2018t Veer"
+  - John Foekens
+  - Christine Desmedt
+  - Christos Sotiriou
+  - Andrew Tutt
+  - Carlos Caldas
+  - Jorge S. Reis-Filho
+  - Samuel A. J. R. Aparicio
+  - Anne Vincent Salomon
+  - "Anne-Lise B\xF8rresen-Dale"
+  - Andrea L. Richardson
+  - Peter J. Campbell
+  - P. Andrew Futreal
+  - Michael R. Stratton
+  publisher: Nature
+  date: '2012-05-16'
+  link: https://doi.org/f996st
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood-2011-09-377275
+  title: Clinical significance of SF3B1 mutations in myelodysplastic syndromes and
+    myelodysplastic/myeloproliferative neoplasms
+  authors:
+  - Luca Malcovati
+  - Elli Papaemmanuil
+  - David T. Bowen
+  - Jacqueline Boultwood
+  - Matteo G. Della Porta
+  - Cristiana Pascutto
+  - Erica Travaglino
+  - Michael J. Groves
+  - Anna L. Godfrey
+  - Ilaria Ambaglio
+  - "Anna Gall\xEC"
+  - "Matteo C. Da Vi\xE0"
+  - Simona Conte
+  - Sudhir Tauro
+  - Norene Keenan
+  - Ann Hyslop
+  - Jonathan Hinton
+  - Laura J. Mudie
+  - James S. Wainscoat
+  - P. Andrew Futreal
+  - Michael R. Stratton
+  - Peter J. Campbell
+  - "Eva Hellstr\xF6m-Lindberg"
+  - Mario Cazzola
+  publisher: Blood
+  date: '2011-12-08'
+  link: https://doi.org/ccgn3g
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/118/24/10.1182_blood-2011-09-377275/4/m_zh89991182640004.jpeg?Expires=1689068530&Signature=3qnbse8LZH05fZbr-8ntaqkOpbNVs4XTqjyirIgmRTxKOfUopDcQS1wKkqB7ryShLWwJZK224w9IpGRzorSY3MKSv6VHSDJXlcynkm1nGFtVTRyLE5R8qyvMoeJh~Gce~7cngnNuVDSyb9UfEuCpM6Q2DNsUwOUu~eQEKnaYohrVr718jZCLxRrURQdhQe3tlEXJh~0pROq66tsi3tzAmMiTshCOnrU45KBCjYIgyKPFE60vUCMdxc4ilIMhblfmZdbL7oQ9N9q2TiP2mM0SoNL7R5ENZVBsK5cJBGjUQN56glA7xWCxm9J~w~nBmL9kSkuJrz6cPnEHYYwEBvykaQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1056/NEJMoa1103283
+  title: Somatic<i>SF3B1</i>Mutation in Myelodysplasia with Ring Sideroblasts
+  authors:
+  - E. Papaemmanuil
+  - M. Cazzola
+  - J. Boultwood
+  - L. Malcovati
+  - P. Vyas
+  - D. Bowen
+  - A. Pellagatti
+  - J.S. Wainscoat
+  - E. Hellstrom-Lindberg
+  - C. Gambacorti-Passerini
+  - A.L. Godfrey
+  - I. Rapado
+  - A. Cvejic
+  - R. Rance
+  - C. McGee
+  - P. Ellis
+  - L.J. Mudie
+  - P.J. Stephens
+  - S. McLaren
+  - C.E. Massie
+  - P.S. Tarpey
+  - I. Varela
+  - S. Nik-Zainal
+  - H.R. Davies
+  - A. Shlien
+  - D. Jones
+  - K. Raine
+  - J. Hinton
+  - A.P. Butler
+  - J.W. Teague
+  - E.J. Baxter
+  - J. Score
+  - A. Galli
+  - M.G. Della Porta
+  - E. Travaglino
+  - M. Groves
+  - S. Tauro
+  - N.C. Munshi
+  - K.C. Anderson
+  - A. El-Naggar
+  - A. Fischer
+  - V. Mustonen
+  - A.J. Warren
+  - N.C.P. Cross
+  - A.R. Green
+  - P.A. Futreal
+  - M.R. Stratton
+  - P.J. Campbell
+  publisher: New England Journal of Medicine
+  date: '2011-10-13'
+  link: https://doi.org/fnjhvf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood-2010-08-301598
+  title: MHC variation and risk of childhood B-cell precursor acute lymphoblastic
+    leukemia
+  authors:
+  - Fay J. Hosking
+  - Stephen Leslie
+  - Alexander Dilthey
+  - Loukas Moutsianas
+  - Yufei Wang
+  - Sara E. Dobbins
+  - Elli Papaemmanuil
+  - Eamonn Sheridan
+  - Sally E. Kinsey
+  - Tracy Lightfoot
+  - Eve Roman
+  - Julie A. E. Irving
+  - James M. Allan
+  - Malcolm Taylor
+  - Mel Greaves
+  - Gilean McVean
+  - Richard S. Houlston
+  publisher: Blood
+  date: '2011-02-03'
+  link: https://doi.org/bw4hjv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood-2009-09-244483
+  title: Genome-wide homozygosity signatures and childhood acute lymphoblastic leukemia
+    risk
+  authors:
+  - Fay J. Hosking
+  - Elli Papaemmanuil
+  - Eammon Sheridan
+  - Sally E. Kinsey
+  - Tracy Lightfoot
+  - Eve Roman
+  - Julie A. E. Irving
+  - James M. Allan
+  - Malcolm Taylor
+  - Ian P. Tomlinson
+  - Mel Greaves
+  - Richard S. Houlston
+  publisher: Blood
+  date: '2010-06-03'
+  link: https://doi.org/cvt9qj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ng.585
+  title: Variation in CDKN2A at 9p21.3 influences childhood acute lymphoblastic leukemia
+    risk
+  authors:
+  - Amy L Sherborne
+  - Fay J Hosking
+  - Rashmi B Prasad
+  - Rajiv Kumar
+  - Rolf Koehler
+  - Jayaram Vijayakrishnan
+  - Elli Papaemmanuil
+  - Claus R Bartram
+  - Martin Stanulla
+  - Martin Schrappe
+  - Andreas Gast
+  - Sara E Dobbins
+  - Yussanne Ma
+  - Eamonn Sheridan
+  - Malcolm Taylor
+  - Sally E Kinsey
+  - Tracey Lightfoot
+  - Eve Roman
+  - Julie A E Irving
+  - James M Allan
+  - Anthony V Moorman
+  - Christine J Harrison
+  - Ian P Tomlinson
+  - Sue Richards
+  - Martin Zimmermann
+  - Csaba Szalai
+  - "\xC1gnes F Semsei"
+  - Daniel J Erdelyi
+  - Maja Krajinovic
+  - Daniel Sinnett
+  - Jasmine Healy
+  - Anna Gonzalez Neira
+  - Norihiko Kawamata
+  - Seishi Ogawa
+  - H Phillip Koeffler
+  - Kari Hemminki
+  - Mel Greaves
+  - Richard S Houlston
+  publisher: Nature Genetics
+  date: '2010-05-09'
+  link: https://doi.org/dbshp3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1182/blood-2009-09-241513
+  title: Verification of the susceptibility loci on 7p12.2, 10q21.2, and 14q11.2 in
+    precursor B-cell acute lymphoblastic leukemia of childhood
+  authors:
+  - Rashmi B. Prasad
+  - Fay J. Hosking
+  - Jayaram Vijayakrishnan
+  - Elli Papaemmanuil
+  - Rolf Koehler
+  - Mel Greaves
+  - Eamonn Sheridan
+  - Andreas Gast
+  - Sally E. Kinsey
+  - Tracy Lightfoot
+  - Eve Roman
+  - Malcolm Taylor
+  - Kathy Pritchard-Jones
+  - Martin Stanulla
+  - Martin Schrappe
+  - Claus R. Bartram
+  - Richard S. Houlston
+  - Rajiv Kumar
+  - Kari Hemminki
+  publisher: Blood
+  date: '2010-03-04'
+  link: https://doi.org/cvxc9k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ejhg.2008.129
+  title: Deciphering the genetics of hereditary non-syndromic colorectal cancer
+  authors:
+  - Eli Papaemmanuil
+  - Luis Carvajal-Carmona
+  - Gabrielle S Sellick
+  - Zoe Kemp
+  - Emily Webb
+  - Sarah Spain
+  - Kate Sullivan
+  - Ella Barclay
+  - Steven Lubbe
+  - Emma Jaeger
+  - Jayaram Vijayakrishnan
+  - Peter Broderick
+  - Maggie Gorman
+  - Lynn Martin
+  - Anneke Lucassen
+  - D Timothy Bishop
+  - D Gareth Evans
+  - Eamonn R Maher
+  - Verena Steinke
+  - Nils Rahner
+  - Hans K Schackert
+  - Timm O Goecke
+  - Elke Holinski-Feder
+  - Peter Propping
+  - Tom Van Wezel
+  - Juul Wijnen
+  - Jean-Baptiste Cazier
+  - Huw Thomas
+  - Richard S Houlston
+  - Ian Tomlinson
+  publisher: European Journal of Human Genetics
+  date: '2008-07-16'
+  link: https://doi.org/brrjx4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/j.1365-2141.2008.07188.x
+  title: Analysis of a large multi-generational family provides insight into the genetics
+    of chronic lymphocytic leukemia
+  authors:
+  - Stephen J. Fuller
+  - Elli Papaemmanuil
+  - Leah McKinnon
+  - Emily Webb
+  - Gabrielle S. Sellick
+  - Lan-Phuong Dao-Ung
+  - Kristen K. Skarratt
+  - Dalemari Crowther
+  - Richard S. Houlston
+  - James S. Wiley
+  publisher: British Journal of Haematology
+  date: '2008-07-01'
+  link: https://doi.org/b7kn4b
   plugin: sources.py
   file: sources.yaml

@@ -214,3 +214,10 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+# Custom
+
+work:
+  icon: fa-solid fa-flask
+  text: Careers
+  tooltip: Careers
