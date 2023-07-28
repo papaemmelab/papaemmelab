@@ -54,7 +54,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/lab1.jpg"
+  image="images/lab-edge.jpg"
   caption="We are strongly committed to mentoring young scientists through internal and international internship schemes"
 %}
 

@@ -7,7 +7,7 @@ Our lab is a collective of clinical, computational, molecular and mathematic res
 
 {%
   include figure.html
-  image="images/lab.jpg"
+  image="images/papaemmanuil-lab.jpg"
   caption="Papaemmanuil Lab at Memorial Sloan Kettering Cancer Center. 2019."
   link="team"
   width="1000px"
@@ -36,7 +36,7 @@ Last, we perform detailed **clonal heterogeneity tracking studies**. We profile 
 
 {%
   include feature.html
-  image="images/lab1.jpg"
+  image="images/elli-maria.png"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,6 @@ Last, we perform detailed **clonal heterogeneity tracking studies**. We profile 
 We are driving the Pediatrics Precision Medicine Initiative for the Department of Pediatrics, and support clinical translational research for the Center for Heme Malignancies at MSK.
 
 We benefit from a fully resourced computational and research environment. We have access to state-of-the-art computing and laboratory facilities to support truly ambitious and innovative research.
-
 
 {%
   include button.html
@@ -92,7 +91,7 @@ We like to perform ambitious research, but operate in a fun, collaborative, and 
 
 {%
   include feature.html
-  image="images/work1.jpg"
+  image="images/lab-edge.jpg"
   link="team"
   title="Our Team"
   text=text
