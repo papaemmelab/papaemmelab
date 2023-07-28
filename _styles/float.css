@@ -31,5 +31,8 @@
     max-width: unset;
   }
 }
+.float {
+  min-height: 800px;
+}
 
 /*# sourceMappingURL=float.css.map */

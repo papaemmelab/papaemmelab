@@ -21,6 +21,7 @@
   aspect-ratio: 3/2;
   object-fit: cover;
   width: 100%;
+  box-shadow: var(--shadow);
 }
 
 .card-text {
@@ -46,6 +47,26 @@
 .card-subtitle {
   margin-top: -15px;
   font-style: italic;
+}
+
+.card-title {
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.card-subtitle {
+  color: var(--secondary);
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.card-text {
+  font-size: 16px;
+}
+
+.card-image img {
+  aspect-ratio: 2/2;
 }
 
 /*# sourceMappingURL=card.css.map */

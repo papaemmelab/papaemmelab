@@ -13,8 +13,8 @@
   margin: 0;
   padding: 5px 10px;
   border-radius: 999px;
-  background: var(--secondary);
-  color: var(--text);
+  background: var(--msk-teal);
+  color: white;
   text-decoration: none;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -28,6 +28,19 @@
 
 .tag[data-active] {
   background: var(--light-gray);
+}
+
+.tag {
+  font-size: 12px;
+  background: #F0F7FF;
+  border: 1px solid var(--primary);
+}
+.tag:hover {
+  background: var(--msk-light-blue);
+}
+
+.tags a {
+  color: var(--primary);
 }
 
 /*# sourceMappingURL=tags.css.map */

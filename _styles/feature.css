@@ -28,8 +28,9 @@
 .feature-title {
   font-size: var(--large);
   text-align: center;
-  font-family: var(--heading);
-  font-weight: var(--semi-bold);
+  font-family: var(--msk-bold);
+  font-weight: var(--bold);
+  color: var(--primary);
 }
 
 .feature[data-flip] {
@@ -44,6 +45,9 @@
     width: unset;
     max-width: 400px;
   }
+}
+.feature-image.large {
+  aspect-ratio: 5/9;
 }
 
 /*# sourceMappingURL=feature.css.map */
