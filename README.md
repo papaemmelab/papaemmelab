@@ -1,5 +1,8 @@
+<div style="background: white; padding: 8px 10px 4px 10px;">
+    <img src="images/MSK_logo.png" height="40px"/>
+</div>
 
-# papaemmelab's Website
+# Papaemmanuil Lab's Website
 
 Visit **[papaemmelab.org](http://papaemmelab.org)** 🚀
 
