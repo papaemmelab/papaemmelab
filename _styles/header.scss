@@ -168,3 +168,23 @@ header[data-big] {
     font-size: var(--medium);
   }
 }
+
+header:not([data-big]) {
+  @media (max-width: $collapse) {
+    justify-content: flex-end;
+    padding: 10px;
+
+    img {
+      margin-top: 24px;
+    }
+    .title > *:first-child {
+      font-size: var(--small);
+    }
+    .title > *:last-child {
+      font-size: var(--xs);
+    }
+    .title {
+      margin: 10px;
+    }
+  }
+}

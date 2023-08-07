@@ -281,7 +281,8 @@
   publisher: NEJM Evidence
   date: '2022-06-28'
   link: https://doi.org/grb2tb
-  image: https://evidence.nejm.org/cms/10.1056/EVIDoa2200008/asset/6e698239-222b-49ea-baaa-e64268197dfa/assets/images/large/evidoa2200008_f2.jpg
+  image: images/nejmoa1516192.jpeg
+  # image: https://evidence.nejm.org/cms/10.1056/EVIDoa2200008/asset/6e698239-222b-49ea-baaa-e64268197dfa/assets/images/large/evidoa2200008_f2.jpg
   buttons:
   - type: package
     text: R Package
@@ -1799,7 +1800,8 @@
   publisher: Blood
   date: '2011-12-08'
   link: https://doi.org/ccgn3g
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/118/24/10.1182_blood-2011-09-377275/4/m_zh89991182640004.jpeg?Expires=1689068530&Signature=3qnbse8LZH05fZbr-8ntaqkOpbNVs4XTqjyirIgmRTxKOfUopDcQS1wKkqB7ryShLWwJZK224w9IpGRzorSY3MKSv6VHSDJXlcynkm1nGFtVTRyLE5R8qyvMoeJh~Gce~7cngnNuVDSyb9UfEuCpM6Q2DNsUwOUu~eQEKnaYohrVr718jZCLxRrURQdhQe3tlEXJh~0pROq66tsi3tzAmMiTshCOnrU45KBCjYIgyKPFE60vUCMdxc4ilIMhblfmZdbL7oQ9N9q2TiP2mM0SoNL7R5ENZVBsK5cJBGjUQN56glA7xWCxm9J~w~nBmL9kSkuJrz6cPnEHYYwEBvykaQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  # image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/118/24/10.1182_blood-2011-09-377275/4/m_zh89991182640004.jpeg
+  image: images/sf3b1.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1056/NEJMoa1103283
