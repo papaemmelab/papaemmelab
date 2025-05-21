@@ -2019,21 +2019,21 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/j.1365-2141.2008.07188.x
-  title: Analysis of a large multi-generational family provides insight into the genetics
-    of chronic lymphocytic leukemia
+  title: "Analysis of a large multi\u2010generational family provides insight into\
+    \ the genetics of chronic lymphocytic leukemia"
   authors:
   - Stephen J. Fuller
   - Elli Papaemmanuil
   - Leah McKinnon
   - Emily Webb
   - Gabrielle S. Sellick
-  - Lan-Phuong Dao-Ung
+  - "Lan\u2010Phuong Dao\u2010Ung"
   - Kristen K. Skarratt
   - Dalemari Crowther
   - Richard S. Houlston
   - James S. Wiley
   publisher: British Journal of Haematology
-  date: '2008-07-01'
+  date: '2008-06-28'
   link: https://doi.org/b7kn4b
   plugin: sources.py
   file: sources.yaml
