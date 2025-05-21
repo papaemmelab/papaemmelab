@@ -2,7 +2,7 @@
 name: Elsa Bernard, PhD
 image: https://www.mskcc.org/sites/default/files/styles/width_200_1x1/public/node/160627/3x2/bernard_170926_03_1200x800.jpg?h=10d202d3
 description: Research fellow
-status: active
+status: alumni
 links:
     email: bernare2@mskcc.org
     website: https://elsab.github.io

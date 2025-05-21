@@ -1,7 +1,7 @@
 ---
 name: Dylan Domenico
 image: https://www.mskcc.org/sites/default/files/styles/width_200_1x1/public/node/211855/main_image/domenicao-dylan_210519_06-1200x800.jpg
-description: Bioinformatics Engineer II
+description: Bioinformatics Engineer III
 status: active
 links:
     email: 

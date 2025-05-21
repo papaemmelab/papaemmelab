@@ -1,7 +1,7 @@
 ---
 name: Noushin Rahnamay Farnoud
 image: https://www.mskcc.org/sites/default/files/styles/width_200_1x1/public/node/150415/3x2/farnoud_130612_02_1200x800.jpg?h=10d202d3
-description: Computational Biologist, Sr II
+description: Principal Computational Biologist
 status: active
 links:
     email: farnoudn@mskcc.org

@@ -1,4 +1,5 @@
-# Latest
+# Highlights
+
 - id: doi:10.1038/s41588-023-01395-x
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41588-023-01395-x/MediaObjects/41588_2023_1395_Fig5_HTML.png?as=webp
   buttons:
@@ -15,6 +16,24 @@
     - Neuroblastoma
     - Evolution
     - Metastasis
+  
+- id: doi:10.1056/EVIDoa2200008
+  image: https://evidence.nejm.org/cms/10.1056/EVIDoa2200008/asset/d8ce4ec7-ad33-4079-80b1-16ed8293e330/assets/images/large/evidoa2200008_f2.jpg
+  buttons:
+    - type: app
+      text: Calculator
+      link: http://www.mds-risk-model.com
+    - type: package
+      text: R Package
+      link: https://github.com/papaemmelab/ipssm
+    - type: server
+      text: API
+      link: http://api.mds-risk-model.com
+  tags:
+    - MDS
+    - Cancer
+    - Hematology
+  repo: papaemmelab/ipssm
 
 - id: doi:10.1038/s41467-022-30233-7
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-30233-7/MediaObjects/41467_2022_30233_Fig1_HTML.png?as=webp
@@ -37,27 +56,22 @@
 - id: doi:10.1038/s41591-020-1008-z
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41591-020-1008-z/MediaObjects/41591_2020_1008_Fig1_HTML.png?as=webp
 
-- id: doi:10.1056/EVIDoa2200008
-  image: https://evidence.nejm.org/cms/10.1056/EVIDoa2200008/asset/6e698239-222b-49ea-baaa-e64268197dfa/assets/images/large/evidoa2200008_f2.jpg
-  buttons:
-    - type: package
-      text: R Package
-      link: https://github.com/papaemmelab/ipssm
-    - type: website
-      text: Calculator
-      link: http://www.mds-risk-model.com
-  tags:
-    - MDS
-    - Cancer
-    - Hematology
-  repo: papaemmelab/ipssm
-
 - id: doi:10.1038/s41467-022-32103-8
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-022-32103-8/MediaObjects/41467_2022_32103_Fig3_HTML.png?as=webp
 
-# Highlights
+- id: doi:10.1056/NEJMoa1516192
+  image: https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2016/nejm_2016.374.issue-23/nejmoa1516192/20180329/images/img_medium/nejmoa1516192_f2.jpeg
 
-- id: doi:10.1038/ng.2874
+- id: doi:10.1182/blood-2011-09-377275
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/118/24/10.1182_blood-2011-09-377275/4/zh89991182640003.jpeg?Expires=1750873086&Signature=s5jbjAuBGLNGqFP6hX-pH61bF2wAeDhzrFYY4nuElzQbLPmjQGIvg4yaFF6WrJ1WO6om7inUE7yRttUCif87Ky0nBys~N-PSsM3rgvMD~syK4mdjIwu8GAEgGeR3I5xPSVr3RtaJOvYGVnoe7Jcal7pPbK4obQQfPNrjRMX4C1tpeMuJ7TnyGdY3r5mOfISOqtkOqw9dKuUfpg7euadeGl50KECrQaQ6IYT0GpL15Rm7DOrF26RDOz-HiAQ5mbfXTTgTa1l26JlV-LqtXtXejaJg00GKGkLCUovdEqOdjEQHzzCjbDCAOyWFkA~7JGDadDX4XgBG1EzQKgfCseY7rw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1056/NEJMoa2413361
+  image: https://www.nejm.org/cms/10.1056/NEJMoa2413361/asset/300a8e4c-b560-4e67-9fcd-83b7caf7746c/assets/images/large/nejmoa2413361_f1.jpg
+
+- id: doi:10.1038/s41588-020-00710-0
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41588-020-00710-0/MediaObjects/41588_2020_710_Fig1_HTML.png?as=webp
+
+# Rest of sources
 
 - id: doi:10.1038/ncomms6901
 
@@ -69,18 +83,13 @@
 
 - id: doi:10.1182/bloodadvances.2021006325
 
-# Rest of sources
+- id: doi:10.1038/ng.2874
 
 - id: doi:10.1038/s41375-022-01537-w
 
 - id: doi:10.1038/s41375-021-01448-2
 
-- id: doi:10.1186/s12859-020-03879-7
-
 - id: doi:10.3324/haematol.2021.279177
-
-- id: doi:10.1056/NEJMoa1516192
-  image: https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2016/nejm_2016.374.issue-23/nejmoa1516192/20180329/images/img_medium/nejmoa1516192_f2.jpeg
 
 - id: doi:10.1056/NEJMoa1412098
 
@@ -110,8 +119,6 @@
 
 - id: doi:10.1038/ng.2921
 
-- id: doi:10.1038/ng.2874
-
 - id: doi:10.1038/ng.2846
 
 - id: doi:10.1056/NEJMoa1312542
@@ -134,9 +141,6 @@
 
 - id: doi:10.1038/nature11017
 
-- id: doi:10.1182/blood-2011-09-377275
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/118/24/10.1182_blood-2011-09-377275/4/m_zh89991182640004.jpeg?Expires=1689068530&Signature=3qnbse8LZH05fZbr-8ntaqkOpbNVs4XTqjyirIgmRTxKOfUopDcQS1wKkqB7ryShLWwJZK224w9IpGRzorSY3MKSv6VHSDJXlcynkm1nGFtVTRyLE5R8qyvMoeJh~Gce~7cngnNuVDSyb9UfEuCpM6Q2DNsUwOUu~eQEKnaYohrVr718jZCLxRrURQdhQe3tlEXJh~0pROq66tsi3tzAmMiTshCOnrU45KBCjYIgyKPFE60vUCMdxc4ilIMhblfmZdbL7oQ9N9q2TiP2mM0SoNL7R5ENZVBsK5cJBGjUQN56glA7xWCxm9J~w~nBmL9kSkuJrz6cPnEHYYwEBvykaQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-
 - id: doi:10.1056/NEJMoa1103283
 
 - id: doi:10.1182/blood-2010-08-301598
@@ -150,6 +154,20 @@
 - id: doi:10.1038/ejhg.2008.129
 
 - id: doi:10.1111/j.1365-2141.2008.07188.x
+
+- id: doi:10.1182/blood.2023023727
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/144/15/10.1182_blood.2023023727/3/blood_bld-2023-023727-ga1.jpeg?Expires=1750156385&Signature=p6D8N67NMlMypqgI~t-jzrNtRh5H3meMZ1DAICUV7jDCYzLCLW9gu3Tq-qtlWY8Vk3iOKMahW3u-Nbth-DVC9HbCPvrn1di2duLRG~uwOcmjVY6J-XhjadOl0UjdJQRYDjitsZJHGlPRSIeBbixGVvdOSk1Xy0cU~9UqLhcIvGu5IFZL--bL0H0xQ8Zx9OK5op29203g7JHhxB6Wo~OSkbEORrWdOMlps0Po~s8yhq8S3l~gJKgXgRftLqgOMFQSoQjIoBo1PvmAGRaN-fK3-Iu6TQ8jc7ca8q9BxLtEKm3ob2-WbKyyPl4lts-x83JTGQ4DQgVe2vCway5q7nF6yw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  # image: https://ash.silverchair-cdn.com/ash/content_public/journal/blood/144/15/10.1182_blood.2023023727/3/blood_bld-2023-023727-gr2.jpeg?Expires=1750873385&Signature=1gnS76BTNkyfmrzoNLp-QukXTTrjnGXAvdnSWgnuRYLGgNOozDvkynWUR-mCIiHgzAlynxQnP2UGXdEX2SOYEj8h7Y4MtXvr7aK~FvNP7M6dIs7ykIdI3piuYuW9o1nFi2-leDqQ5FcHjH2mXMxPvXorryTxx4qAWP47~xorLHQDGySBb-fV~3VkG9KMm7evZ6stZOIlVoA9PF72tDDTZRNvoTsAhbyi~7YZs8n-4t5i6YvQ6oz3axcCm6OZUFqF~QaL3YkccqXWX0QVaT7wx2SNMlQDwAnlSgkAFKgwxVfECadUkv8WFWlsA7H-qkAlpimefZVpuWmo-jOJfe~Qwg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:10.1182/bloodadvances.2022008992
+
+- id: doi:10.1158/0008-5472.CAN-23-0385
+
+- id: doi:10.1182/blood.2023023723
+
+- id: doi:10.7326/L24-0125
+
+- id: doi:10.1182/bloodadvances.2024014869
 
 # Jaeger E, Webb E, Howarth K, Carvajal-Carmona L, Rowan A, Broderick P, Walther A, Spain S, Pittman A, Kemp Z, Sullivan K, Heinimann K, Lubbe S, Domingo E, Barclay E, Martin L, Gorman M, Chandler I, Vijayakrishnan J, Wood W, Papaemmanuil E, Penegar S, Qureshi M; CORGI Consortium, Farrington S, Tenesa A, Cazier JB, Kerr D, Gray R, Peto J, Dunlop M, Campbell H, Thomas H, Houlston R, Tomlinson I. Common genetic variants at the CRAC1 (HMPS) locus on chromosome 15q13.3 influence colorectal cancer risk. Nat Genet. 2008 Jan;40(1):26-8
 # Penegar S, Wood W, Lubbe S, Chandler I, Broderick P, Papaemmanuil E, Sellick G, Gray R, Peto J, Houlston R. National study of colorectal cancer genetics. Br J Cancer. 2007 Nov 5;97(9):1305-9

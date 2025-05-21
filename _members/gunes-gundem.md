@@ -1,7 +1,7 @@
 ---
 name: Gunes Gundem
 image: https://www.mskcc.org/sites/default/files/styles/width_200_1x1/public/node/39615/3x2/gundem_170926_01_1200x800.jpg?h=10d202d3
-description: Senior Research Scientist
+description: Principal Computational Biologist
 status: active
 links:
     email: gundemg@mskcc.org

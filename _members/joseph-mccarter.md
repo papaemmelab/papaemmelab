@@ -2,7 +2,7 @@
 name: Joseph G. McCarter
 image: https://www.mskcc.org/sites/default/files/styles/width_200_1x1/public/node/161449/3x2/mccarter_joseph_180611_09_1200x800.jpg?h=10d202d3
 description: Computational Biologist, Sr I
-status: active
+status: alumni
 links:
     email: mccartej@mskcc.org
 ---
