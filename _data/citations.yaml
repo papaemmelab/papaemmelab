@@ -2428,3 +2428,47 @@
   link: https://doi.org/g9kwff
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.stem.2025.04.012
+  title: Deconvoluting clonal and cellular architecture in IDH-mutant acute myeloid
+    leukemia
+  authors:
+  - Maria Sirenko
+  - Soobeom Lee
+  - Zhengxi Sun
+  - Ronan Chaligne
+  - Sanam Loghavi
+  - Georgios Asimomitis
+  - Charlotte K. Brierley
+  - Elsa Bernard
+  - Sheng F. Cai
+  - Robert M. Myers
+  - Bettina Nadorp
+  - Junya Sango
+  - Morgan Lallo
+  - Max F. Levine
+  - Dylan Domenico
+  - Juan E. Arango Ossa
+  - Juan S. Medina-Martinez
+  - Kamal Menghrajani
+  - Audrey Lasry
+  - Alice S. Mims
+  - Helee Desai
+  - Andrea Laganson
+  - Chris Famulare
+  - Minal Patel
+  - Gerard Lozanski
+  - Kelly L. Bolton
+  - Aaron D. Viny
+  - Mikhail Roshal
+  - Ross L. Levine
+  - Eirini P. Papapetrou
+  - Eytan M. Stein
+  - Dan A. Landau
+  - Ann-Kathrin Eisfeld
+  - Iannis Aifantis
+  - Elli Papaemmanuil
+  publisher: Cell Stem Cell
+  date: '2025-05-01'
+  link: https://doi.org/g9k6zj
+  plugin: sources.py
+  file: sources.yaml
